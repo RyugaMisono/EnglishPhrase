@@ -1,0 +1,49 @@
+name: 毎日自動投稿
+
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 毎日 08:30 JST (UTC+9 = UTC 23:30)
+  workflow_dispatch:         # 手動実行ボタン
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 依存パッケージをインストール
+        run: pip install -r requirements.txt
+
+      - name: .env を作成
+        run: |
+          cat > .env << EOF
+          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
+          INSTAGRAM_USER_ID=${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_ACCESS_TOKEN=${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          IMGBB_API_KEY=${{ secrets.IMGBB_API_KEY }}
+          X_API_KEY=${{ secrets.X_API_KEY }}
+          X_API_SECRET=${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN=${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET=${{ secrets.X_ACCESS_SECRET }}
+          EOF
+
+      - name: 未生成フレーズがあれば生成
+        run: python main.py --count 3
+
+      - name: 投稿実行
+        run: python poster.py --buffer
+
+      - name: 生成ファイルをコミット・プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/generated.json output/cards/ phrase.txt
+          git diff --staged --quiet || git commit -m "auto: 投稿 $(date '+%Y-%m-%d')"
+          git push

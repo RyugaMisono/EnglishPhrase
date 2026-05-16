@@ -1,0 +1,940 @@
+[
+  {
+    "phrase": "Dollars to donuts",
+    "japanese_meaning": "絶対に～だと思う、確実に～である",
+    "example_en": "Dollars to donuts, he's going to be late again tomorrow.",
+    "example_ja": "絶対に彼は明日も遅刻するよ。",
+    "situation": "📍 友達の行動パターンが確実な時に、自信満々で予想する場面",
+    "why_no_test": "金とドーナツを賭ける古い米国スラングなので、試験官も「これどうやって採点するんだ」と困ります。",
+    "instagram_caption": "🍩💰 ネイティブが絶対を表現する時、こっそり使うのが「Dollars to donuts」。金とドーナツで賭ける？意味不明ですよね😂でも米国人はこれで「100%そうだ」って言ってます。人生、テストより会話が大事。",
+    "x_post": "🍩 \"Dollars to donuts\"→絶対～だと思う😂 ネイティブの会話に出てくるのに試験には一切登場しない奇跡の英語。ドーナツと金を賭けるって何ですか？で済ます勇気が大事。 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 1,
+    "generated_at": "2026-05-13T14:54:30.284961",
+    "card_paths": [
+      "output/cards/001_dollars-to-donuts_card1.png",
+      "output/cards/001_dollars-to-donuts_card2.png",
+      "output/cards/001_dollars-to-donuts_card3.png"
+    ],
+    "posted_at": "2026-05-16T14:50:24.390490",
+    "posted_info": {
+      "buffer": "queued"
+    }
+  },
+  {
+    "phrase": "Crocodile tear",
+    "japanese_meaning": "ワニの涙。嘘泣き、偽りの涙",
+    "example_en": "She's crying crocodile tears about losing her phone, but she bought a new one yesterday.",
+    "example_ja": "彼女は携帯をなくしたと泣いてるけど、実は昨日新しいのを買ったんだ",
+    "situation": "誰かが本気でないのに泣いたり悔しがったりしてるとき",
+    "etymology": "ワニは食べた獲物に涙を流しながら食べるという迷信から。実は目から塩分を出してるだけだが、昔の人は知らなかった",
+    "fun_fact": "シェイクスピアの時代から使われている古い表現。ワニが本当に泣くわけないのに、今も日常会話で活躍中",
+    "instagram_caption": "「ワニの涙」って何？🐊 嘘泣き、偽りの悔しさを指すネイティブ表現です。昔の人がワニの生態を誤解していたからこんなフレーズが生まれた。テストには出ませんが、ドラマや映画でよく出てくるから知ってると便利！",
+    "x_post": "ワニの涙 = 嘘泣き🐊 ネイティブが日常でよく使うのに試験には絶対出ない表現。昔の人はワニが涙を流すと信じてたらしい😂 #英語学習 #ネイティブ英語 #イディオム",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 2,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:39:46.183740",
+    "card_paths": [
+      "output/cards/002_crocodile-tear_card1.png",
+      "output/cards/002_crocodile-tear_card2.png",
+      "output/cards/002_crocodile-tear_card3.png"
+    ]
+  },
+  {
+    "phrase": "moron",
+    "japanese_meaning": "バカ、間抜け（やや強い罵倒語）",
+    "example_en": "Dude, did you seriously forget your keys again? You're such a moron!",
+    "example_ja": "おい、また鍵忘れたのか？本当にバカだな！",
+    "situation": "友人の間抜けな行動に呆れた時、親友同士のカジュアルな会話で使う",
+    "etymology": "1910年代にギリシャ語の『moros（愚か）』から心理学用語として誕生。当時は知能指数の分類用語でしたが、今は日常のカジュアルな罵倒語に",
+    "fun_fact": "昔は医学的な診断用語でしたが、今は完全にスラング化。試験に出ないのに友人の失敗談で100回は聞く表現です",
+    "instagram_caption": "テストには絶対出ないけど、友人との会話では月1回は確実に聞く表現🤦 ネイティブはこんなカジュアルな罵倒をサラッと使うんです。でも親友同士の冗談として！",
+    "x_post": "moron = テストに出ない神フレーズ🤦‍♂️ 友人の『え、それ忘れた？』っていう失敗にネイティブはコレを使う。親友同士なら愛のある罵倒です💯 #英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 3,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:39:51.940086",
+    "card_paths": [
+      "output/cards/003_moron_card1.png",
+      "output/cards/003_moron_card2.png",
+      "output/cards/003_moron_card3.png"
+    ]
+  },
+  {
+    "phrase": "can relate",
+    "japanese_meaning": "その気持ち・状況わかるよ、共感できる",
+    "example_en": "I failed my driving test three times. Yeah, I can totally relate to that struggle.",
+    "example_ja": "運転免許試験に3回落ちたんだ。あ、その苦労わかるよ。",
+    "situation": "友人の経験や悩みに共感し、自分も同じような経験をしたことがあるとき",
+    "etymology": "relateは「関連する・共感する」という意味。Can relate=「その気持ちと関連性を感じることができる」という直訳から生まれた日常表現。",
+    "fun_fact": "SNS時代に爆発的に流行。「I can relate」というコメントはInstagramやTikTokで最頻出。若者言葉の代表格です。",
+    "instagram_caption": "試験には絶対出ないのに、ネイティブは毎日連発😂 友人の悩みに「わかるよ〜」って言いたいときはこれ！自分の経験を交えて使うのがコツです💡",
+    "x_post": "I can relate🤝 試験に出ないのに日常会話では超頻出💬 友人の失敗談に共感するときの最強フレーズ。受験勉強では学べない、本物のネイティブ英語です😄 #英語学習 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 4,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:39:57.552887",
+    "card_paths": [
+      "output/cards/004_can-relate_card1.png",
+      "output/cards/004_can-relate_card2.png",
+      "output/cards/004_can-relate_card3.png"
+    ]
+  },
+  {
+    "phrase": "couch potato",
+    "japanese_meaning": "ソファでゴロゴロしてばかりいる怠け者",
+    "example_en": "My brother has been a total couch potato since he started binge-watching that new series.",
+    "example_ja": "兄はあの新シリーズをイッキ見し始めてからソファの虫と化してる。",
+    "situation": "友人が家でダラダラしている様子をユーモアたっぷりに説明するとき",
+    "etymology": "1970年代アメリカ発祥。ジャガイモのように丸くなってソファに座りっぱなしの人を揶揄した造語。potatoの頭文字をとってPOTAと呼ぶことも。",
+    "fun_fact": "アメリカでは実際に「Couch Potato Award」という賞があり、テレビ中毒者をジョーク的に表彰する文化が存在する。",
+    "instagram_caption": "ソファでゴロゴロ→couch potato🥔 テストには絶対出ないけど、友人の生態を正確に表現できる魔法の言葉です。あなたの周りにもいませんか？",
+    "x_post": "友人がNetflix三昧の時は『You're such a couch potato!』とネイティブは言う🥔 テストに出ない最強フレーズ #英語学習 #ネイティブ英語 #日常会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 5,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:40:03.185240",
+    "card_paths": [
+      "output/cards/005_couch-potato_card1.png",
+      "output/cards/005_couch-potato_card2.png",
+      "output/cards/005_couch-potato_card3.png"
+    ]
+  },
+  {
+    "phrase": "fingers crossed",
+    "japanese_meaning": "幸運を祈る、うまくいくといいなあ",
+    "example_en": "I hope I get the job. Fingers crossed! The interview went pretty well.",
+    "example_ja": "その仕事がもらえるといいな。幸運を祈ってるよ！面接はまあまあうまくいった。",
+    "situation": "試験結果待ち、告白前、飛行機の着陸時など、ドキドキな場面で運を天に任せる時",
+    "etymology": "中世ヨーロッパで十字架は幸運の象徴。両手の指を交差させて十字を作ることから、願いを込める仕草として定着した説が有力。",
+    "fun_fact": "イギリス発祥の表現で、実際に指を交差させる人も多い。オンライン会議でも「mentally fingers crossed」と使う程の浸透度。",
+    "instagram_caption": "試験？告白？飛行機？🤞ネイティブはドキドキな瞬間にコレを言います。指を交差させたら幸運も引き寄せられる...かも？運頼みの英語、試験には絶対出ません😂",
+    "x_post": "試験前「Fingers crossed!」と言いながら指をバッテン✌️ネイティブは本当にこの身振りまでセット。テストには出ないけど日常会話で超使う表現です🍀 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 6,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:40:08.920160",
+    "card_paths": [
+      "output/cards/006_fingers-crossed_card1.png",
+      "output/cards/006_fingers-crossed_card2.png",
+      "output/cards/006_fingers-crossed_card3.png"
+    ]
+  },
+  {
+    "phrase": "TGIF",
+    "japanese_meaning": "金曜日が来たぞ！という喜びを表す造語",
+    "example_en": "TGIF! Let's hit the bar after work and celebrate the weekend.",
+    "example_ja": "やった金曜日だ！仕事の後バーに行こうぜ、週末を祝おう。",
+    "situation": "金曜日の仕事終わり、同僚や友人とカジュアルに会話する時",
+    "etymology": "「Thank God It's Friday」の頭文字を取った造語。1970年代後半にアメリカで流行し、T.G.I.Friday'sという居酒屋チェーン名にもなった。",
+    "fun_fact": "アメリカでは金曜日の午後4時頃、職場でこの言葉が飛び交うほど日常的。日本の「花金」文化に最も近い表現。",
+    "instagram_caption": "受験に絶対出ないけど、アメリカのオフィスでは毎週飛び交う魔法の言葉🎉金曜日の午後、この4文字を言うだけで同僚とボンドが深まる✨試験には出ないが、外国人の友人とのカジュアル会話には必須！",
+    "x_post": "TGIF🎊受験に出ないけどネイティブが金曜日に必ず言う言葉。職場で「Thank God It's Friday」と叫ぶアメリカ人たち😂試験対策には不要だけど、リアルな英会話には超有用！ #英語学習 #ネイティブ英語 #実用英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 7,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:43:27.269622",
+    "card_paths": [
+      "output/cards/007_tgif_card1.png",
+      "output/cards/007_tgif_card2.png",
+      "output/cards/007_tgif_card3.png"
+    ]
+  },
+  {
+    "phrase": "toast",
+    "japanese_meaning": "終わり、失敗、ダメになった状態を指す俗語",
+    "example_en": "My phone fell in water—it's toast now. I need a new one.",
+    "example_ja": "スマホが水に落ちちゃった。もう終わりだ。新しいのが必要だ。",
+    "situation": "何かが壊れたり、計画がダメになったときにサッと使える",
+    "etymology": "焦げたトーストのように「こんがり焦げて使い物にならない」という比喩から。1980年代のアメリカスラングで流行。",
+    "fun_fact": "乾杯の『toast』とは無関係。むしろ「焦げ焦げ」というイメージが重要。デジタル世代も愛用する表現。",
+    "instagram_caption": "「My phone is toast」って？ 🍞焦げたトーストのように『おわり』『ダメになった』という意味です。試験には絶対出ないけど、友達との会話で超使えるフレーズ！受験英語の教科書には載らない、リアルなネイティブ表現をマスターしよう。",
+    "x_post": "🍞 My phone is toast! = 「スマホが終わった」試験に出ないのに日常会話では必須フレーズ。焦げたトーストのように『ダメになった』という意味。ネイティブはめっちゃ使う。 #英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 8,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:43:32.904712",
+    "card_paths": [
+      "output/cards/008_toast_card1.png",
+      "output/cards/008_toast_card2.png",
+      "output/cards/008_toast_card3.png"
+    ]
+  },
+  {
+    "phrase": "on me",
+    "japanese_meaning": "私が払う／私の責任",
+    "example_en": "Hey, lunch is on me today! I just got my paycheck.",
+    "example_ja": "なあ、今日のランチは俺が奢るよ！給料が出たばっかりだし。",
+    "situation": "友人との食事で費用負担を申し出たり、何かの責任を引き受けたりする時",
+    "etymology": "「～の上に」という意味のonが、「費用や責任が自分の肩にかかっている」という比喩から。古英語の所有概念に由来します。",
+    "fun_fact": "アメリカの飲み屋では「This round is on the house!」と言うと、バーテンダーが1杯無料にしてくれます。気前の良さの文化です。",
+    "instagram_caption": "ネイティブが毎日使ってるのに、試験に出たことない魔法のフレーズ✨ 「on me」は「I'll pay」より絶対ネイティブっぽい。お金の話も英語でスマートに決めましょう💳",
+    "x_post": "試験には絶対出ないのに日常会話では超頻出🤔 「on me」=俺が払う・俺が責任取る。この一言でネイティブ感UP📈 #英語 #日常英語 #ネイティブ表現",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 9,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:43:38.635879",
+    "card_paths": [
+      "output/cards/009_on-me_card1.png",
+      "output/cards/009_on-me_card2.png",
+      "output/cards/009_on-me_card3.png"
+    ]
+  },
+  {
+    "phrase": "so are you",
+    "japanese_meaning": "「お前もな」「君だって」相手の発言を返す時の切り返し",
+    "example_en": "A: You're so lazy! B: So are you! We literally just watched Netflix for 6 hours.",
+    "example_ja": "A「君ほんと怠け者だね」B「お前だって！さっきNetflix6時間見てたじゃん」",
+    "situation": "友人の悪口や冗談に対して、同じことが自分にも当てはまる時の返し",
+    "etymology": "「So are you=君もそうだ」という直訳。相手の言葉をそのまま返すカジュアルな表現。論理的で実に英語らしい切り返し技",
+    "fun_fact": "子どもが使う「お前こそ！」と同じ心理。ネイティブも言い返されると笑う。親友同士の関係性が見える表現で、距離が近いほど使われる",
+    "instagram_caption": "友達に文句言われたら即座にこれ🎯友人の悪口を返す必殺技「So are you」。試験には絶対出ないのに、ネイティブは日常で何度も言ってる。論理的で実に英語らしいカウンター表現です。",
+    "x_post": "友達が文句言ってきたら「So are you!」で即カウンター😂試験には出ない最強の返し。親友同士のやり取りで頻出なのに教科書には0。これぞネイティブ英語。 #英語 #英語フレーズ #ネイティブ英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 10,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:43:44.800336",
+    "card_paths": [
+      "output/cards/010_so-are-you_card1.png",
+      "output/cards/010_so-are-you_card2.png",
+      "output/cards/010_so-are-you_card3.png"
+    ]
+  },
+  {
+    "phrase": "damn",
+    "japanese_meaning": "しまった、ちぇっ（軽い悪態、驚き・落胆の表現）",
+    "example_en": "Damn, I forgot my keys again. This is the third time this week.",
+    "example_ja": "ちぇっ、また鍵を忘れちゃった。今週3回目だよ。",
+    "situation": "軽い失敗や落胆を感じたとき。試験では出ないが日常会話の必需品。",
+    "etymology": "中英語の「damen（非難する）」から。昔は宗教的なタブーだったが、今は軽い悪態として日常化。歴史ある言葉です。",
+    "fun_fact": "アメリカドラマでは単語数制限でよく検閲される。PG-13映画での使用は1度まで。映画業界の公式ルール。",
+    "instagram_caption": "テストには絶対出ないのにネイティブは1日10回は言う魔法の言葉🤦‍♂️ Damnの使い手になれば、あなたも本物の英語話者🌟 教科書には載らない日常会話の必殺技です💬",
+    "x_post": "テストに出ないのにネイティブが毎日使う言葉「Damn」😅 軽い落胆や失敗の時の魔法の一言。教科書の英語じゃ絶対に習わないリアルな日常表現です #英語学習 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 11,
+    "is_ng": false,
+    "generated_at": "2026-05-14T12:43:50.719224",
+    "card_paths": [
+      "output/cards/011_damn_card1.png",
+      "output/cards/011_damn_card2.png",
+      "output/cards/011_damn_card3.png"
+    ]
+  },
+  {
+    "phrase": "bravado",
+    "japanese_meaning": "虚勢、大口叩き、見栄っ張り",
+    "example_en": "He's all bravado—talks tough but cries at Disney movies.",
+    "example_ja": "彼は虚勢を張ってるだけ。強気なことを言うけど、ディズニー映画で泣く。",
+    "situation": "相手が強がってるけど本当は小心者だと指摘したい時",
+    "etymology": "スペイン語の『bravada』から。16世紀のスペイン人の威張った振る舞いが語源。昔から虚勢は万国共通。",
+    "fun_fact": "映画『トイストーリー』のバズ・ライトイヤーは完全にbravado。実は普通のおもちゃなのに宇宙人のふりをしている。",
+    "instagram_caption": "虚勢って万国共通ですよね😂 彼氏が『余裕』って言いながら親に会う直前にトイレこもってた話。これbravadoです。ネイティブもこの単語よく使います💪",
+    "x_post": "bravado=虚勢🎭 ネイティブ：『He's all bravado』→『あいつ口だけ』。テストには絶対出ないのに日常会話では神単語。虚勢張ってる友達に使ってみて😂 #英語 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 12,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:08:42.778657",
+    "card_paths": [
+      "output/cards/012_bravado_card1.png",
+      "output/cards/012_bravado_card2.png",
+      "output/cards/012_bravado_card3.png"
+    ]
+  },
+  {
+    "phrase": "jet lag",
+    "japanese_meaning": "時差ボケ。飛行機で長距離移動した時の疲労や睡眠障害。",
+    "example_en": "I'm so jet lagged after the 14-hour flight. I can't even remember my own name right now.",
+    "example_ja": "14時間のフライト後で時差ボケがひどい。自分の名前も忘れそうだよ。",
+    "situation": "長距離フライト後、同僚や友人に自分の疲労状態を説明する時。",
+    "etymology": "1960年代に「ジェット機」と「時間差のズレ」が合体した造語。飛行機の普及とともに生まれた現代的な悩みの言葉。",
+    "fun_fact": "アメリカの研究では、西向きのフライトより東向きのフライトの方が時差ボケが酷いとか。体内時計は時間を進める方が難しいらしい。",
+    "instagram_caption": "✈️ 飛行機の快適さと引き換えに、体内時計はボロボロ😴 試験には絶対出ないけど、国際線経験者なら必ず知ってる「jet lag」。ネイティブはこれでよく仕事をサボります（冗談）。",
+    "x_post": "✈️ 試験に出ない英語の筆頭『jet lag』😴 TOEIC満点でも、長距離フライト後は使いこなせない。ネイティブが本当に困ってる表現です。 #英語学習 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 13,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:08:48.544454",
+    "card_paths": [
+      "output/cards/013_jet-lag_card1.png",
+      "output/cards/013_jet-lag_card2.png",
+      "output/cards/013_jet-lag_card3.png"
+    ]
+  },
+  {
+    "phrase": "no offense",
+    "japanese_meaning": "悪気はないんだけど、気を悪くしないで",
+    "example_en": "No offense, but your haircut makes you look like a angry poodle.",
+    "example_ja": "悪気はないんだけど、そのヘアスタイルだと怒ったプードルみたいに見えるよ。",
+    "situation": "相手を傷つけそうな本音を言う前に、クッションとして使う時",
+    "etymology": "offenseは『不快感・怒り』という意味。直訳すると『不快を与えない』だが、実際には『これから失礼かもしれませんが』という免罪符として機能する魔法の言葉。",
+    "fun_fact": "実は言った後も言う前も相手は気を悪くしている。ネイティブも知っている、この世で最も効果のない前置き表現。",
+    "instagram_caption": "友人の新しい靴を見て『うーん…』となった時の万能フレーズ😅 実は何も防御してないけど、言わないよりはマシ。ネイティブも活用するテクニック！",
+    "x_post": "No offense→実際には何も防御していない説🤔 相手を傷つける言葉の前に唱える呪文。テストには出ないが、会話では超重要！ #英語 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 14,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:08:54.394604",
+    "card_paths": [
+      "output/cards/014_no-offense_card1.png",
+      "output/cards/014_no-offense_card2.png",
+      "output/cards/014_no-offense_card3.png"
+    ]
+  },
+  {
+    "phrase": "watch your language",
+    "japanese_meaning": "言葉遣いに気をつけろ、言葉を慎みなさい",
+    "example_en": "Hey! Watch your language! There are kids around here.",
+    "example_ja": "ちょっと！言葉遣いに気をつけて！子どもたちがいるんだよ。",
+    "situation": "誰かが悪い言葉や下品な表現を使った時に注意する場面",
+    "etymology": "「言語を監視する」という直訳から、相手の発言内容に注意を促す表現へ。子どもの頃に親から言われる定番フレーズ。",
+    "fun_fact": "アメリカの親が子どもに最も頻繁に言うフレーズのトップ3に入る。試験には絶対出ないが、実生活では超頻出。",
+    "instagram_caption": "親から最も愛されるフレーズ🤐 子どもが悪い言葉を使った時の必殺技です。試験には出ませんが、家族との会話では毎日レベルの登場率。言葉遣いって大事ですね。",
+    "x_post": "👨‍👩‍👧‍👦 親の必殺技「Watch your language!」テストには出ないけど、実生活では親が子どもに言う最頻出フレーズ。下品な言葉を使った時の定番注意。子どもの頃誰もが言われてる🤭 #英語学習 #ネイティブ英語 #テストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 15,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:00.437690",
+    "card_paths": [
+      "output/cards/015_watch-your-language_card1.png",
+      "output/cards/015_watch-your-language_card2.png",
+      "output/cards/015_watch-your-language_card3.png"
+    ]
+  },
+  {
+    "phrase": "zip it",
+    "japanese_meaning": "黙れ、口を閉じろ",
+    "example_en": "Hey, zip it! I'm trying to concentrate on this exam right now.",
+    "example_ja": "ちょっと黙ってよ！今試験に集中してるんだ。",
+    "situation": "友人がうるさい時、相手を軽くからかいながら静かにさせたい場面",
+    "etymology": "ジッパー（zip）を閉じるように口を閉じろという比喩表現。1950年代のアメリカスラング由来で、視覚的でユーモアがある。",
+    "fun_fact": "ママが子どもに使うほどカジュアル。TOEICや大学受験には絶対出ないが、ドラマ・映画では頻出。命令形で使うと失礼になる可能性も。",
+    "instagram_caption": "試験に出ないけど、友達とのリアル会話では月5回は言ってる表現🤐 口をジッパーで閉じろ、という視覚的なユーモアが最高。ネイティブはこんなカジュアルな言い方で日常会話を楽しんでます！",
+    "x_post": "Zip it=黙れ😂 教科書には一切出ないけど、ネイティブの日常会話では超頻出。ジッパーを閉じるように口を黙らせろ、って表現がこんなにカジュアルだから英語って楽しい🗣️ #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 16,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:06.274350",
+    "card_paths": [
+      "output/cards/016_zip-it_card1.png",
+      "output/cards/016_zip-it_card2.png",
+      "output/cards/016_zip-it_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ、そういう気概が大事、いいぞ",
+    "example_en": "I'm finally going to hit the gym! - That's the spirit! You can do it.",
+    "example_ja": "やっとジムに行くんだ！ - その調子だ！頑張れ",
+    "situation": "誰かが前向きに挑戦しようとする時に励ましやアドバイスをする場面",
+    "etymology": "18世紀の軍事用語が由来。兵士の士気や闘志を指す「spirit」が転じて、現在は困難に立ち向かう前向きな姿勢を励ます言葉に",
+    "fun_fact": "アメリカのスポーツ観戦では超定番フレーズ。ただしテスト対策本には絶対に載らない。受験英語と実会話のギャップを象徴する一言",
+    "instagram_caption": "試験に出ないけど、外国人の友達と話すなら100%出てくるフレーズ🔥誰かが頑張ろうとしてる時の最高の応援の言葉。テキストには載ってないのに日常会話ではマジで使える！",
+    "x_post": "テスト対策には全く役立たないのに、実際の英会話では毎日聞こえる...それが「That's the spirit!」🔥 誰かが前向きに頑張ろうとする時の最強の応援フレーズ #英語 #ネイティブ英語 #英語学習",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 17,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:11.802257",
+    "card_paths": [
+      "output/cards/017_that-s-the-spirit_card1.png",
+      "output/cards/017_that-s-the-spirit_card2.png",
+      "output/cards/017_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "感情的に食べる、ストレス食い",
+    "example_en": "I had a terrible day at work, so I ended up eating my feelings with a whole pizza.",
+    "example_ja": "仕事で最悪の日を過ごしたから、感情的にピザ一枚全部食べちゃった。",
+    "situation": "失恋や仕事のストレスで無意識に食べてる友人に対して",
+    "etymology": "感情（feelings）を食べ物で埋めるというメタファーから。心理学的背景もあり、感情的な食行動は医学用語でも使われる。",
+    "fun_fact": "アメリカでは感情食いは一般的な現象で、アイスクリームやチョコレートの売上は失恋後に急増するというデータがある。",
+    "instagram_caption": "心が満たされないから、お腹を満たす。😭🍕 ネイティブはストレスを感じると『eat one's feelings』と表現します。試験には出ないけど、海外ドラマやSNSではよく見かける表現！",
+    "x_post": "失恋後に無意識にアイス食べてる...それが『eat one's feelings』🍦😭 試験には出ないけど、ネイティブは日常でめっちゃ使う！共感度120% #英語学習 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 18,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:17.539339",
+    "card_paths": [
+      "output/cards/018_eat-one-s-feeling_card1.png",
+      "output/cards/018_eat-one-s-feeling_card2.png",
+      "output/cards/018_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "fine",
+    "japanese_meaning": "大丈夫、いいよ、OKの万能返事",
+    "example_en": "Hey, want to grab coffee? Yeah, that's fine with me. Let's go.",
+    "example_ja": "「コーヒー飲みに行かない？」「いいよ、行こう」",
+    "situation": "友人の誘いや提案に対して、大丈夫・問題ないと返す時",
+    "etymology": "ラテン語の「finis（終わり・完成）」から。完成された＝申し分ない状態という意味が生まれた。試験には出ないが、日常会話では超頻出。",
+    "fun_fact": "アメリカ人は『How are you?』に『I'm fine』と答えず『I'm good』『I'm doing well』と言うことが多い。fineは実は少し他人行儀な印象。",
+    "instagram_caption": "試験対策本には絶対載ってない、でもネイティブは1日100回は言う魔法の言葉🪄 『fine』はぶっちゃけ『大丈夫・いいよ・問題なし』の万能選手。学校では習わない使い方だから、逆に実践で活躍します💬",
+    "x_post": "試験には出ないのに日常英会話では爆発的に使う『fine』😅 アメリカ人：「How are you?」 日本人受験生：「I'm fine, thank you」 実際のアメリカ人：「I'm good!」 リアルはこう #英語学習 #ネイティブ英語 #テストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 19,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:24.091990",
+    "card_paths": [
+      "output/cards/019_fine_card1.png",
+      "output/cards/019_fine_card2.png",
+      "output/cards/019_fine_card3.png"
+    ]
+  },
+  {
+    "phrase": "like",
+    "japanese_meaning": "〜みたいな、〜って感じ（文中に挿入する口癖）",
+    "example_en": "So I was like, super tired, and he's like, 'Let's go hiking.' I'm like, seriously?",
+    "example_ja": "それでね、私めっちゃ疲れてたんだけど、彼は『ハイキング行こうぜ』って感じでさ。私は『マジで？』みたいなね。",
+    "situation": "友達との雑談で、思いついたことをカジュアルに伝える時",
+    "etymology": "元々は『好む』の意味だが、1980年代アメリカの若者言葉で『〜みたい』という意味で多用され始めた。今やネイティブ会話に欠かせない間投詞的存在に。",
+    "fun_fact": "言語学者も研究するほどポピュラーな『filler word』。日本語の『～っていうか』『～じゃん』に相当。試験官が最も嫌う表現。",
+    "instagram_caption": "テスト対策では絶対に教わらない『like』の本当の使い方🤐 ネイティブはこれを『like』まくって喋ってます。文法的には完全アウトなのに、実際の英会話では最強の武器。試験と会話は別物なんですよね😅",
+    "x_post": "受験生：『likeは好むという意味です』✍️ ネイティブ：『Yeah so like... I was like... he's like...' 🤷‍♂️ テストには絶対出ないけど、日常会話では必須な『like』の秘密 #英語 #ネイティブ英語 #英語あるある",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 20,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:30.937918",
+    "card_paths": [
+      "output/cards/020_like_card1.png",
+      "output/cards/020_like_card2.png",
+      "output/cards/020_like_card3.png"
+    ]
+  },
+  {
+    "phrase": "fire away",
+    "japanese_meaning": "どんどん言ってよ、質問してよ（遠慮なく話を続けてくれていいよ）",
+    "example_en": "Got questions about the project? Fire away! I've got all the answers you need.",
+    "example_ja": "プロジェクトについて質問ある？遠慮なくどうぞ！何でも答えられるよ。",
+    "situation": "相手に質問や意見を促したいカジュアルな場面。会議や日常会話で頻繁に使用。",
+    "etymology": "銃の発砲命令「撃て！」が語源。「遠慮なく質問や意見を発射してくれ」という意味で、19世紀から使われている軍事用語由来のフレーズ。",
+    "fun_fact": "アメリカドラマやポッドキャストのインタビューで頻出。試験問題には絶対出ないのにネイティブは毎日使う、まさに「テストに出ない英語」の代表格。",
+    "instagram_caption": "「質問ありますか？」と聞かれて困ったことない？ネイティブはこう言うんです🔥 Fire away = どんどん言ってよ！試験には出ないけどめちゃ使える日常英語。",
+    "x_post": "Fire away = どんどん言ってよ🔥 試験には出ないのに日常会話で毎日登場するフレーズ。次の英会話で使えば確実にネイティブっぽくなる！ #英語学習 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 21,
+    "is_ng": false,
+    "generated_at": "2026-05-14T19:09:36.789001",
+    "card_paths": [
+      "output/cards/021_fire-away_card1.png",
+      "output/cards/021_fire-away_card2.png",
+      "output/cards/021_fire-away_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "いいね、その意気だ。その調子で頑張れ。",
+    "example_en": "I'm going to start working out tomorrow! That's the spirit, dude!",
+    "example_ja": "明日からジム通い始めるんだ！いいね、その意気だ！",
+    "situation": "友人が前向きな決断や行動をしようとしている時に励まし・応援する場面",
+    "etymology": "17世紀の英語で「spirit（精神・やる気）」が活躍し始めた。アメリカ開拓民がよく使った勇敢さを讃える表現が現代まで生き残った。",
+    "fun_fact": "スポーツ観戦や学園ドラマで頻出。実は試験には絶対出ない理由は『感情表現すぎる』から。教科書に載る雰囲気ゼロ。",
+    "instagram_caption": "試験には出ないけど、ネイティブの日常会話では超頻出🔥 友人の頑張りを応援したい時の最強フレーズ。受験生より社会人が好む理由、わかりますか？",
+    "x_post": "That's the spirit＝試験0点、リアル会話100点 🎯 友人の決断を応援する時の定番フレーズ。試験対策本には載ってないけど、日常英会話ではこれを知ってるだけで信頼度UP #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 22,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:08:19.572551",
+    "card_paths": [
+      "output/cards/022_that-s-the-spirit_card1.png",
+      "output/cards/022_that-s-the-spirit_card2.png",
+      "output/cards/022_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べて紛らわす、ストレス食いをする",
+    "example_en": "After the breakup, she ate her feelings with an entire pizza last night.",
+    "example_ja": "別れた後、彼女は昨晩ピザ一枚を食べてストレスを紛らわした。",
+    "situation": "失恋や試験失敗などで、つい食べて気を紛らわす時",
+    "etymology": "1950年代のアメリカで流行した心理学用語。感情を「食べる」という動作で表現した比喩的表現。",
+    "fun_fact": "感情を食べる人は甘いものや脂肪分の多い食事を選びやすいという研究結果あり。ドーパミン放出が理由。",
+    "instagram_caption": "テストには絶対出ないけど、人生では何度も使う表現🍕😭\n\nストレスで無限にポテトを食べちゃう、あの現象です。試験勉強中の皆さん、感情を食べすぎないように！",
+    "x_post": "\"I'm eating my feelings tonight\"🍰😢 試験不合格やったから、ケーキ爆食い中。テストには出ないけどリアルすぎて辛い表現😅 #英語 #ネイティブ英語 #あるある",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 23,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:08:25.000880",
+    "card_paths": [
+      "output/cards/023_eat-one-s-feelings_card1.png",
+      "output/cards/023_eat-one-s-feelings_card2.png",
+      "output/cards/023_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "down ones nose",
+    "japanese_meaning": "～を見下す、鼻で笑う、軽蔑する",
+    "example_en": "He always looks down his nose at people who don't go to fancy universities.",
+    "example_ja": "彼はいつも有名大学に行かない人たちを見下している。",
+    "situation": "誰かが他人を傲慢に扱ったり、軽蔑的な態度を示すときに使う",
+    "etymology": "物理的に「鼻を下に向ける」→相手を見下ろす → 比喩的に軽蔑する意味に。貴族的で高慢な態度から生まれた表現。",
+    "fun_fact": "鼻が高いと実際に下向きに見えるため、ヨーロッパの階級社会では上流階級の傲慢さを表す完璧な比喩になった。",
+    "instagram_caption": "鼻をピンと立てて人を見下す...そんな嫌な奴いますよね😤 \"look down one's nose at\" は「～を見下す」という意味。テスト対策には出ないけど、ドラマでよく聞く表現です！会話で使えばネイティブ感が出ます👃✨",
+    "x_post": "🔴テストに出ない英語🔴\n\"look down one's nose at~\"=見下す、軽蔑する😤\n有名大学や高い身分の人が他人を見下すシーンでよく出現。リアルな日常会話の味方です！ #英語学習 #ネイティブ表現 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 24,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:08:30.537862",
+    "card_paths": [
+      "output/cards/024_down-ones-nose_card1.png",
+      "output/cards/024_down-ones-nose_card2.png",
+      "output/cards/024_down-ones-nose_card3.png"
+    ]
+  },
+  {
+    "phrase": "give blow for blow",
+    "japanese_meaning": "互いに応酬する、やられたらやり返す",
+    "example_en": "When he insulted me, I gave blow for blow. We argued for hours!",
+    "example_ja": "彼が僕を侮辱してきたから、やり返した。何時間も言い合いになったよ",
+    "situation": "口論や言い争いで相手の攻撃に対して同等に反撃する時",
+    "etymology": "ボクシングの「blow（パンチ）」が語源。拳と拳が交わる様子から、言葉の応酬を表すように拡張された",
+    "fun_fact": "元々は文字通りの格闘技用語でしたが、現在は日常会話では口論や議論での『言い返す』という意味で使われることがほとんど。暴力的なニュアンスはありません",
+    "instagram_caption": "テストには絶対出ない🙅‍♂️でも友人との言い争いでは確実に使える！相手の文句にやり返す時のネイティブ表現です。ケンカ相手との対等な応酬を表します👊💬",
+    "x_post": "give blow for blow = やられたらやり返す💢 テスト非出題確定🙅‍♂️だが日常会話の言い争いで必須！相手の攻撃に同等に反撃する時のネイティブ表現。実は暴力的じゃなくて言葉での応酬です #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 25,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:08:36.337427",
+    "card_paths": [
+      "output/cards/025_give-blow-for-blow_card1.png",
+      "output/cards/025_give-blow-for-blow_card2.png",
+      "output/cards/025_give-blow-for-blow_card3.png"
+    ]
+  },
+  {
+    "phrase": "do you mind if i sit",
+    "japanese_meaning": "座ってもいいですか？",
+    "example_en": "Do you mind if I sit here? The other table's full.",
+    "example_ja": "ここに座ってもいいですか？あっちのテーブル満席なんで。",
+    "situation": "カフェ・食堂で誰かと相席するときや、知人の隣に座りたいとき",
+    "etymology": "Mind=気になるか＋if I sit=座ったら。つまり『座られたら気になりますか？』が本来の意味だが、ネイティブは丁寧な許可の求め方として使用。",
+    "fun_fact": "テストでは「May I sit?」が教えられるが、日常会話ではこちらの方がよく聞こえます。ニュアンスはより柔らかく、相手への気遣いが感じられます。",
+    "instagram_caption": "試験官『座り方は何パターン習いましたか？』受験生『3つです』ネイティブ『え？僕たちこれ一択なんですけど😅』日常会話の現実がここに。",
+    "x_post": "Do you mind if I sitは試験に出ないが、カフェで毎日聞こえる最強フレーズ。May I sitは丁寧すぎてネイティブ感ゼロ。テストと実会話のズレがやばい🤔 #英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 26,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:08:42.105334",
+    "card_paths": [
+      "output/cards/026_do-you-mind-if-i-sit_card1.png",
+      "output/cards/026_do-you-mind-if-i-sit_card2.png",
+      "output/cards/026_do-you-mind-if-i-sit_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "そういう心意気だ！その調子だ！",
+    "example_en": "I'm finally going to the gym tomorrow. That's the spirit! Keep it up!",
+    "example_ja": "明日からようやくジムに行くんだ。その調子！頑張ってね！",
+    "situation": "相手の前向きな決意や頑張る姿勢を応援・励ましたいとき",
+    "etymology": "spiritは「精神・気合い」の意味。昔から「そういう気合い・心持ちが大事」という励ましフレーズとして使われてきた",
+    "fun_fact": "スポーツ映画やコーチが選手を励ますときの定番表現。試験には出ないが英語ドラマではめっちゃ出る",
+    "instagram_caption": "試験には絶対出ないのに、ネイティブはめっちゃ使う🔥\n相手の頑張る姿勢に「その調子だ！」って応援したいときの最強フレーズ💪\nカジュアルで温かい雰囲気が最高です✨",
+    "x_post": "That's the spirit! 🔥試験に出ないけどネイティブが日常で絶対使う励ましフレーズ。相手のやる気を応援するときの定番。スポーツ映画でもよく聞く！ #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 27,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:09:39.676537",
+    "card_paths": [
+      "output/cards/027_that-s-the-spirit_card1.png",
+      "output/cards/027_that-s-the-spirit_card2.png",
+      "output/cards/027_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "感情を食べて紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I came home and ate my feelings with ice cream.",
+    "example_ja": "仕事で最悪の一日を過ごしたから、帰宅してアイスクリームでストレス食いした。",
+    "situation": "失恋・失敗・ストレスを感じた時に、無意識に食べてしまう様子を説明する場面",
+    "etymology": "「感情を食べる」という直感的な比喩表現。心の穴を食べ物で埋める行為を擬人化した日常用語で、1990年代から広く使われている。",
+    "fun_fact": "アメリカ人が感情的になると甘いものや脂肪分の多い食べ物に手を伸ばす傾向は科学的に証明されており、この表現は心理学的にも実在する行動パターンを指します。",
+    "instagram_caption": "バッドデイの相棒はアイス🍦試験には絶対出ないけど、心が折れた時の最強フレーズ。感情を食べるって、まさにこういう時だ。ネイティブは普通に使います。",
+    "x_post": "I ate my feelings with ice cream 🍦=ストレス食い。試験に出ない最高のフレーズ。感情を「食べる」という表現、ネイティブはマジでよく使う。あなたも心当たりあるはず😅 #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 28,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:09:45.334542",
+    "card_paths": [
+      "output/cards/028_eat-one-s-feeling_card1.png",
+      "output/cards/028_eat-one-s-feeling_card2.png",
+      "output/cards/028_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。中身を見よう。",
+    "example_en": "Yeah, he looks rough, but don't judge a book by its cover—he's actually super kind.",
+    "example_ja": "見た目は怖そうだけど、見た目で判断しちゃダメだよ。実はすごく優しい人なんだ。",
+    "situation": "友人の外見や第一印象が悪い相手を擁護するとき、偏見を戒めるとき。",
+    "etymology": "1500年代の古い格言が由来。本は装丁は地味でも内容が深い場合がある、という比喩から生まれた表現。今では人間関係全般に使われる。",
+    "fun_fact": "古すぎてTOEIC・英検でも「やさしすぎる」として出題されない。むしろネイティブは短く「Don't judge!」と言うことが多い。",
+    "instagram_caption": "見た目で判断するな！ネイティブは日常会話でめっちゃ使うのに、試験には絶対出ないフレーズ🚫📖 第一印象って大事だけど、本当の価値は中身にあるんです。",
+    "x_post": "見た目で判断するなって英語で何て言う？「Don't judge a book by its cover!」めっちゃ使うのにテストに出ない理由→古すぎるから😂 #英語 #ネイティブ英語 #英語学習",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 29,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:09:51.012359",
+    "card_paths": [
+      "output/cards/029_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/029_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/029_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "tad",
+    "japanese_meaning": "ほんの少し、ちょっと",
+    "example_en": "Can you add a tad more salt to the soup? It's a bit bland.",
+    "example_ja": "スープに塩をちょっと足してくれない？ちょっと味が薄いんだ。",
+    "situation": "料理の味加減や分量を微調整する時、ネイティブが日常会話で頻繁に使う",
+    "etymology": "16世紀にさかのぼる古い単語で、元は「小さな子供」を意味していた。子どもサイズ=小さい量という連想から転じて、現在の意味に。",
+    "fun_fact": "アメリカ英語では\"a tad\"、イギリス英語では\"a tad\"とどちらでも使われますが、口語的でカジュアルな響きが特徴です。",
+    "instagram_caption": "\"Just a tad more!\"ネイティブが料理中によく言う魔法の言葉🧂✨ほんのちょっと足すだけで完璧な味に。テストには出ませんが、リアルな会話では毎日出まくりです😄",
+    "x_post": "\"A tad\"=ほんの少し🧂日常会話で超使われるのに試験問題には絶対出ない不思議なフレーズ😂スープに塩ちょい足し、コーヒーに砂糖ちょい足し...ネイティブは本当にこれをよく言う🤣 #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 30,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:09:56.610076",
+    "card_paths": [
+      "output/cards/030_tad_card1.png",
+      "output/cards/030_tad_card2.png",
+      "output/cards/030_tad_card3.png"
+    ]
+  },
+  {
+    "phrase": "get one's ire up",
+    "japanese_meaning": "怒らせる、カッとさせる",
+    "example_en": "Don't get his ire up before the meeting. He's already stressed about the deadline.",
+    "example_ja": "会議前に彼を怒らせないで。締切のことで既にストレスを抱えてるから。",
+    "situation": "誰かが不機嫌になりそうな状況で、注意を促すときに使う",
+    "etymology": "『ire』は古英語の『ira』から。怒りを意味するラテン語が語源。日常会話ではほぼ使われない古風な単語が、慣用句として生き残った珍しいケース。",
+    "fun_fact": "『ire』は現代英語ではほぼ死語。このフレーズ以外で見かけることはほぼなし。シェイクスピアの時代の遺産です。",
+    "instagram_caption": "「怒らせる」って意外と難しい英語表現。ネイティブはこっそりこんな古風な言い方を使ってたりします😂 試験に出るわけないのに日常会談では超便利。あなたの友人を怒らせないように注意！🔥",
+    "x_post": "『get one's ire up』= 怒らせる。iireは古英語の怒りの神様。試験には絶対出ないのに、ネイティブの隠れた武器🗡️ あなたの上司のireを上げないようにね😅 #英語学習 #ネイティブ英語 #テストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 31,
+    "is_ng": false,
+    "generated_at": "2026-05-15T13:10:02.319927",
+    "card_paths": [
+      "output/cards/031_get-one-s-ire-up_card1.png",
+      "output/cards/031_get-one-s-ire-up_card2.png",
+      "output/cards/031_get-one-s-ire-up_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その意気だ！その調子で頑張れ！",
+    "example_en": "I'm finally going to the gym tomorrow! That's the spirit! You'll feel amazing.",
+    "example_ja": "明日からジム通い始めるんだ！その意気だ！気分爽快になるよ。",
+    "situation": "友人が前向きに挑戦しようとする時、励ましや応援の言葉として使う。",
+    "etymology": "19世紀から使われる表現。「精神」を意味するspiritが、人の勇敢さや決意を象徴するように。元々は軍隊で兵士を鼓舞する時に使われていました。",
+    "fun_fact": "アメリカのスポーツ応援文化が起源で、野球やフットボールの試合で今も頻繁に聞かれます。日本の「頑張れ！」と同じくらいカジュアル。",
+    "instagram_caption": "試験には絶対出ないけど、友人を励ましたい時の最強フレーズ🔥 ネイティブは「Great!」より「That's the spirit!」でテンション上げる。やる気スイッチを入れてくれる魔法の一言です。",
+    "x_post": "試験対策に出ない魔法の言葉🪄That's the spirit!友人の頑張りに「その調子！」と励ましたい時のネイティブ必須フレーズ。スポーツ観戦でも日常会話でも大活躍。#英語 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 32,
+    "is_ng": false,
+    "generated_at": "2026-05-16T14:50:35.919630",
+    "card_paths": [
+      "output/cards/032_that-s-the-spirit_card1.png",
+      "output/cards/032_that-s-the-spirit_card2.png",
+      "output/cards/032_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "感情を食べる。ストレスや悲しみを食べることで気を紛らわす",
+    "example_en": "After the breakup, I've been eating my feelings with ice cream all week.",
+    "example_ja": "別れた後、アイスクリームを食べて気を紛らわしている",
+    "situation": "ストレス・悲しみ・イライラした時に、無意識に食べて気を紛らわすシーンで使う",
+    "etymology": "直訳すると「感情を食べる」。食べる行為が感情の処理方法として機能する様子を表現した創造的な比喩。心理学的背景あり",
+    "fun_fact": "感情食いは心理学の実在する概念。アメリカでは多くのドラマで「感情を食べる」シーンが登場する定番表現",
+    "instagram_caption": "試験には絶対出ないのに、ネイティブは頻繁に使う😅 失恋・ストレス・退屈な時、みんなアイスやピザで気を紛らわします。あなたの「感情食い」は何ですか？🍦",
+    "x_post": "失恋した時のネイティブ: \"I'm eating my feelings\" 📺🍕 試験には出ないけど実生活で超実用的。あなたのストレス飯は何？ #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 33,
+    "is_ng": false,
+    "generated_at": "2026-05-16T14:50:41.141750",
+    "card_paths": [
+      "output/cards/033_eat-one-s-feeling_card1.png",
+      "output/cards/033_eat-one-s-feeling_card2.png",
+      "output/cards/033_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。中身が大事。",
+    "example_en": "Yeah, he looks sketchy, but don't judge a book by its cover. He's actually super nice.",
+    "example_ja": "確かに見た目は怪しいけど、見た目で判断しちゃダメ。実は超いい奴だよ。",
+    "situation": "友人の外見や第一印象で判断してる人に、もっと中身を見るよう促す場面",
+    "etymology": "16世紀のスコットランド発祥。本当に本の表紙だけで内容は判断できないという単純な事実から、人間関係にも応用された格言。",
+    "fun_fact": "アメリカでは「本は表紙で売れる」という出版業界の現実と完全に矛盾してるのがジョーク。でも人間には当てはまるってわけ。",
+    "instagram_caption": "見た目で人を判断する？🙅‍♂️ネイティブは「Don't judge a book by its cover」でさらっと否定します。テストには出ないけど、人間関係を円滑にする魔法の一言✨ 言い方次第で相手を傷つけずに促せる良フレーズ！",
+    "x_post": "見た目で判断するなよ〜って時、ネイティブは「Don't judge a book by its cover」👀 テストには絶対出ない。でも日常会話では超使える。人間関係スムーズになるフレーズです🎯 #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 34,
+    "is_ng": false,
+    "generated_at": "2026-05-16T14:50:46.962775",
+    "card_paths": [
+      "output/cards/034_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/034_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/034_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "poke nose around",
+    "japanese_meaning": "詮索する、鼻をつっこむ、あれこれ調べる",
+    "example_en": "Stop poking your nose around my business! It's none of your concern.",
+    "example_ja": "私の事業にあれこれ口出ししないで！君には関係ないでしょ。",
+    "situation": "友人が自分の私生活に過度に関心を示してきた時、相手を軽く注意する場面",
+    "etymology": "鼻（nose）を突っ込む（poke）という身体的な行為から、他人の事柄に干渉する意味に。俗語的で非常にカジュアルな表現。",
+    "fun_fact": "欧米人は好奇心旺盛な人を『nosy person』と呼びます。鼻をくんくんさせる様子から、詮索好きを比喩的に表現しています。",
+    "instagram_caption": "「鼻をつっこむ」って英語でどう言う？🤨 友人の詮索に対する絶妙な返し言葉がコレ。テストには出ないけど、カフェでの会話で自然に使えたらネイティブっぽい！😎 Would you use this in a casual conversation? 👃",
+    "x_post": "友人が詮索してくる時の完璧な返し👃「Stop poking your nose around!」試験には出ないけどネイティブは日常で普通に使う表現。会話力を上げたいなら要チェック！ #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 35,
+    "is_ng": false,
+    "generated_at": "2026-05-16T14:50:52.773526",
+    "card_paths": [
+      "output/cards/035_poke-nose-around_card1.png",
+      "output/cards/035_poke-nose-around_card2.png",
+      "output/cards/035_poke-nose-around_card3.png"
+    ]
+  },
+  {
+    "phrase": "as you were",
+    "japanese_meaning": "元通りに、前と同じように、もとの状態に戻せ",
+    "example_en": "You spilled coffee on my shirt! As you were, buddy—just buy me a new one.",
+    "example_ja": "「シャツにコーヒーこぼした！元通りにしてよ、友よ。新しいの買ってくれるだけでいいけど」",
+    "situation": "何か起こった後、元の状態に戻すよう指示する時。軍隊で使い始めたフレーズ。",
+    "etymology": "イギリス陸軍の軍事用語が起源。兵士が間違った動作をした時、将校が「as you were」と言って前の位置に戻させた。今は日常会話のユーモアとして機能。",
+    "fun_fact": "本来は軍事訓練用語だが、今はカジュアルに「なかったことにしろよ」という冗談めいたニュアンスで使われる。試験には絶対出ない。",
+    "instagram_caption": "軍隊発祥なのに、日常会話ではジョーク。ネイティブはこんな古臭い表現まで使いこなす。試験には出ないけど、映画やドラマで必ず聞こえます🎬 知ってたら、ちょっと自慢できるレベルの英語！",
+    "x_post": "軍隊発祥の古い表現「as you were」が、日常ではジョークに変身🪖 何かやらかした後『元通りにしろよ』という冗談。試験には出ないけど、映画で絶対聞こえる。ネイティブの会話レベルをUP🚀 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 36,
+    "is_ng": false,
+    "generated_at": "2026-05-16T14:50:59.002967",
+    "card_paths": [
+      "output/cards/036_as-you-were_card1.png",
+      "output/cards/036_as-you-were_card2.png",
+      "output/cards/036_as-you-were_card3.png"
+    ]
+  }
+]
