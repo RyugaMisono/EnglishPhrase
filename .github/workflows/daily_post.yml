@@ -22,17 +22,22 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: .env を作成
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
         run: |
-          cat > .env << EOF
-          ANTHROPIC_API_KEY=${{ secrets.ANTHROPIC_API_KEY }}
-          INSTAGRAM_USER_ID=${{ secrets.INSTAGRAM_USER_ID }}
-          INSTAGRAM_ACCESS_TOKEN=${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          IMGBB_API_KEY=${{ secrets.IMGBB_API_KEY }}
-          X_API_KEY=${{ secrets.X_API_KEY }}
-          X_API_SECRET=${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN=${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET=${{ secrets.X_ACCESS_SECRET }}
-          EOF
+          printf "ANTHROPIC_API_KEY=%s\n"    "$ANTHROPIC_API_KEY"    >> .env
+          printf "IMGBB_API_KEY=%s\n"        "$IMGBB_API_KEY"        >> .env
+          printf "BUFFER_ACCESS_TOKEN=%s\n"  "$BUFFER_ACCESS_TOKEN"  >> .env
+          printf "X_API_KEY=%s\n"            "$X_API_KEY"            >> .env
+          printf "X_API_SECRET=%s\n"         "$X_API_SECRET"         >> .env
+          printf "X_ACCESS_TOKEN=%s\n"       "$X_ACCESS_TOKEN"       >> .env
+          printf "X_ACCESS_SECRET=%s\n"      "$X_ACCESS_SECRET"      >> .env
 
       - name: 未生成フレーズがあれば生成
         run: python main.py --count 3
