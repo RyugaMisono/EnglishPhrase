@@ -39,6 +39,13 @@ jobs:
           printf "X_ACCESS_TOKEN=%s\n"       "$X_ACCESS_TOKEN"       >> .env
           printf "X_ACCESS_SECRET=%s\n"      "$X_ACCESS_SECRET"      >> .env
 
+      - name: .env 確認（デバッグ）
+        run: |
+          echo "=== .env keys (値は非表示) ==="
+          cut -d= -f1 .env
+          echo "=== ANTHROPIC_API_KEY 長さ ==="
+          awk -F= '/ANTHROPIC_API_KEY/{print length($2)}' .env
+
       - name: 未生成フレーズがあれば生成
         run: python main.py --count 3
 
