@@ -8,6 +8,8 @@ on:
 jobs:
   post:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     env:
       ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
@@ -29,11 +31,6 @@ jobs:
 
       - name: 依存パッケージをインストール
         run: pip install -r requirements.txt
-
-      - name: 環境変数デバッグ
-        run: |
-          echo "Shell ANTHROPIC_API_KEY 長さ: ${#ANTHROPIC_API_KEY}"
-          python3 -c "import os; print('Python os.getenv 長さ:', len(os.getenv('ANTHROPIC_API_KEY','')))"
 
       - name: 未生成フレーズがあれば生成
         run: python main.py --count 3
