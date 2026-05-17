@@ -9,6 +9,15 @@ jobs:
   post:
     runs-on: ubuntu-latest
 
+    env:
+      ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
+      IMGBB_API_KEY:        ${{ secrets.IMGBB_API_KEY }}
+      BUFFER_ACCESS_TOKEN:  ${{ secrets.BUFFER_ACCESS_TOKEN }}
+      X_API_KEY:            ${{ secrets.X_API_KEY }}
+      X_API_SECRET:         ${{ secrets.X_API_SECRET }}
+      X_ACCESS_TOKEN:       ${{ secrets.X_ACCESS_TOKEN }}
+      X_ACCESS_SECRET:      ${{ secrets.X_ACCESS_SECRET }}
+
     steps:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
@@ -20,31 +29,6 @@ jobs:
 
       - name: 依存パッケージをインストール
         run: pip install -r requirements.txt
-
-      - name: .env を作成
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
-          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          X_API_SECRET: ${{ secrets.X_API_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
-        run: |
-          printf "ANTHROPIC_API_KEY=%s\n"    "$ANTHROPIC_API_KEY"    >> .env
-          printf "IMGBB_API_KEY=%s\n"        "$IMGBB_API_KEY"        >> .env
-          printf "BUFFER_ACCESS_TOKEN=%s\n"  "$BUFFER_ACCESS_TOKEN"  >> .env
-          printf "X_API_KEY=%s\n"            "$X_API_KEY"            >> .env
-          printf "X_API_SECRET=%s\n"         "$X_API_SECRET"         >> .env
-          printf "X_ACCESS_TOKEN=%s\n"       "$X_ACCESS_TOKEN"       >> .env
-          printf "X_ACCESS_SECRET=%s\n"      "$X_ACCESS_SECRET"      >> .env
-
-      - name: .env 確認（デバッグ）
-        run: |
-          echo "=== .env keys (値は非表示) ==="
-          cut -d= -f1 .env
-          echo "=== ANTHROPIC_API_KEY 長さ ==="
-          awk -F= '/ANTHROPIC_API_KEY/{print length($2)}' .env
 
       - name: 未生成フレーズがあれば生成
         run: python main.py --count 3
