@@ -291,7 +291,11 @@
       "output/cards/010_so-are-you_card1.png",
       "output/cards/010_so-are-you_card2.png",
       "output/cards/010_so-are-you_card3.png"
-    ]
+    ],
+    "posted_at": "2026-05-25T23:49:56.901146",
+    "posted_info": {
+      "buffer": "queued"
+    }
   },
   {
     "phrase": "damn",
@@ -1669,6 +1673,84 @@
       "output/cards/063_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/063_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/063_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！やる気だね！",
+    "example_en": "I'm going to finally hit the gym tomorrow. That's the spirit! You've got this!",
+    "example_ja": "明日からやっとジム行くんだ。その調子！頑張れよ！",
+    "situation": "誰かが前向きなことを言ったり、勇敢な決断をしたとき励ます",
+    "etymology": "「spirit」は本来「魂・精神」。相手の前向きな精神を認めて鼓舞する表現。18世紀から使われている古い応援フレーズ。",
+    "fun_fact": "試験には全く出ませんが、映画やドラマで必ず聞きます。むしろこれを知らないと洋画理解度が一気に下がる危険なフレーズ。",
+    "instagram_caption": "テストには絶対出ないのに、洋画ドラマで毎秒聞こえる魔のフレーズ🎬 ネイティブはこれで日々相手を励ましてます。覚えて損なし！💪✨",
+    "x_post": "試験０点、日常会話１０００点🎬 That's the spirit!=その調子！ テストに出ないけど映画では毎秒聞こえる。これ知らないと洋画が半減します。#英語 #ネイティブ英語 #映画で学ぶ英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 64,
+    "is_ng": false,
+    "generated_at": "2026-05-25T23:49:37.315491",
+    "card_paths": [
+      "output/cards/064_that-s-the-spirit_card1.png",
+      "output/cards/064_that-s-the-spirit_card2.png",
+      "output/cards/064_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I ended up eating my feelings with a whole pizza.",
+    "example_ja": "仕事で最悪の一日を過ごしたから、ピザ一枚でストレス食いしてしまった。",
+    "situation": "失恋や仕事のストレスで、つい食べてしまう時の自虐的な表現",
+    "etymology": "感情（feeling）を食べ物で埋め合わせる、という直喩表現。心理学的に実在する行動を言語化した日常表現で、特に1990年代のアメリカドラマで流行。",
+    "fun_fact": "アメリカ人のストレス対処法の代表例として語られることが多く、映画やTVドラマでは「アイスクリーム食べながら失恋を癒す女性」の古典的シーンに登場。",
+    "instagram_caption": "落ち込んだ時の定番表現🍕😭 テストには絶対出ないけど、ネイティブの日常会話では頻出！自分の感情を食べで紛らわす行為を、こんなユーモアたっぷりに表現できるのが英語の魅力です💪",
+    "x_post": "感情をお菓子で埋め合わせる行為、ネイティブはこう言う👇 \"eat one's feeling\" テストに出ないけど、日常会話では超便利な表現！あなたも今日からストレス食いを英語で自虐的に表現できます😆 #英語学習 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 65,
+    "is_ng": false,
+    "generated_at": "2026-05-25T23:49:43.257589",
+    "card_paths": [
+      "output/cards/065_eat-one-s-feeling_card1.png",
+      "output/cards/065_eat-one-s-feeling_card2.png",
+      "output/cards/065_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目だけで判断するな。本は表紙で選ぶな",
+    "example_en": "Yeah, he looks sketchy, but don't judge a book by its cover. He's actually super cool once you get to know him.",
+    "example_ja": "確かに怪しく見えるけど、見た目だけで判断しちゃダメ。実際に知り合うと超いい人だよ",
+    "situation": "友人の外見や第一印象で誤解しないよう優しく諭すとき",
+    "etymology": "1600年代から存在する古いことわざ。本を買う時に表紙だけ見て中身を確認しない行為から生まれたメタファー。現在は人間関係全般に使用。",
+    "fun_fact": "このフレーズは試験には絶対出ないのに、ネイティブはめちゃめちゃ使う。むしろ日常会話の必須フレーズ。意識高い系は『make assumptions』とか言うけど普通の人はこれ",
+    "instagram_caption": "見た目で判断しちゃダメ！ネイティブが毎日使うのに試験には1ミリも出ないフレーズ🤔 むしろ『be careful not to judge a book by its cover』なんて言う人いないよ。日常会話はシンプルが勝ち。",
+    "x_post": "見た目で判断すんなよ👀ネイティブはこう言う。試験には出ないけど友達づくりに超重要。意識高いフレーズより日常会話の勝者はコレ。 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 66,
+    "is_ng": false,
+    "generated_at": "2026-05-25T23:49:48.959143",
+    "card_paths": [
+      "output/cards/066_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/066_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/066_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
