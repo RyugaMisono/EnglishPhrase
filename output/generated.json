@@ -351,7 +351,11 @@
       "output/cards/012_bravado_card1.png",
       "output/cards/012_bravado_card2.png",
       "output/cards/012_bravado_card3.png"
-    ]
+    ],
+    "posted_at": "2026-05-27T23:50:21.124948",
+    "posted_info": {
+      "buffer": "queued"
+    }
   },
   {
     "phrase": "jet lag",
@@ -1833,6 +1837,84 @@
       "output/cards/069_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/069_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/069_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "そういう気合いだ！その調子！前向きな姿勢を褒める表現",
+    "example_en": "I'm going to finally hit the gym tomorrow! That's the spirit!",
+    "example_ja": "明日からやっとジム行くんだ！その調子だ！",
+    "situation": "友人が前向きな決定や挑戦を宣言した時に励ましや応援で使う",
+    "etymology": "19世紀からある表現。「精神・気合い」を意味するspiritが、ここでは積極的な態度や勇気を指す。昔から応援で使われてきた古典的フレーズ",
+    "fun_fact": "直訳すると「それが精神だ」だが、試験問題では絶対出ない。学校では習わず、映画やドラマで何度も聞く謎のフレーズ筆頭",
+    "instagram_caption": "試験に出ないのに、アメリカドラマだと毎回出てくるあのフレーズ🎬 友人を応援する時の魔法の言葉。外国人の友達がいたら絶対使える",
+    "x_post": "That's the spirit! 試験には出ないけど日常会話では超頻出🔥 友人の頑張りを応援したい時の最強フレーズです #英語 #ネイティブ英語 #使える英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 70,
+    "is_ng": false,
+    "generated_at": "2026-05-27T23:50:01.845357",
+    "card_paths": [
+      "output/cards/070_that-s-the-spirit_card1.png",
+      "output/cards/070_that-s-the-spirit_card2.png",
+      "output/cards/070_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I went home and ate my feelings with ice cream.",
+    "example_ja": "仕事で最悪の一日を過ごしたから、帰宅してアイスクリームでストレス食いした。",
+    "situation": "失恋や仕事のストレスで、ついついジャンクフードに手を出すときに使う",
+    "etymology": "1980年代にアメリカで流行した心理学用語。感情（feelings）を食べ物（eating）で埋め合わせする行動を指す。実は文字通り食べているわけではなく、食べることで感情を処理しているという比喩表現。",
+    "fun_fact": "アメリカのドラマ『グレイズ・アナトミー』でも頻出。感情的になったキャラが冷蔵庫に走るシーンはこの表現の典型例です。",
+    "instagram_caption": "失恋した友達に『大丈夫？』と聞くと『ピザとチョコで対処中🍕🍫』と返ってくる。これがeat one's feelings！ストレス食いは万国共通の対処法かもしれません。",
+    "x_post": "失恋→ピザ、仕事ストレス→アイスクリーム。これぞeat one's feelings🍔💔 ネイティブはこう言うのに、日本の教科書には絶対載らない表現。テストには出ないけど日常会話では超実用的！ #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 71,
+    "is_ng": false,
+    "generated_at": "2026-05-27T23:50:07.810387",
+    "card_paths": [
+      "output/cards/071_eat-one-s-feelings_card1.png",
+      "output/cards/071_eat-one-s-feelings_card2.png",
+      "output/cards/071_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな、中身を見よう",
+    "example_en": "Yeah, he looks weird, but don't judge a book by its cover. He's actually super cool.",
+    "example_ja": "確かに彼は変に見えるけど、見た目で判断しちゃダメ。実はめっちゃいい奴だよ。",
+    "situation": "友人の恋人や新しい同僚など、見た目で先入観を持つ人に対して使う",
+    "etymology": "14世紀の英語諺が起源。本を買う時に表紙だけで判断するなという教訓が、人間関係にも当てはまるということで普及した。",
+    "fun_fact": "日本の「人は見た目が9割」という考え方とは真逆の西洋の価値観。ただしinstagram時代は誰もが表紙を気にしている矛盾。",
+    "instagram_caption": "見た目で判断するなんてもったいない。第一印象って実は超あてにならない。ネイティブは何度も何度もこのフレーズで諭してくる。人付き合いの基本ですね。📚✨",
+    "x_post": "見た目で判断するな。これ、ネイティブが人付き合いの時に超よく言う。でも実は本当に大事な表紙の時代。矛盾してる。😂 #英語 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 72,
+    "is_ng": false,
+    "generated_at": "2026-05-27T23:50:14.551027",
+    "card_paths": [
+      "output/cards/072_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/072_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/072_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
