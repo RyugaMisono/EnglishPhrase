@@ -561,7 +561,11 @@
       "output/cards/019_fine_card1.png",
       "output/cards/019_fine_card2.png",
       "output/cards/019_fine_card3.png"
-    ]
+    ],
+    "posted_at": "2026-06-04T00:05:29.466081",
+    "posted_info": {
+      "buffer": "queued"
+    }
   },
   {
     "phrase": "like",
@@ -2407,6 +2411,84 @@
       "output/cards/090_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/090_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/090_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その意気だ！頑張れ！",
+    "example_en": "I'm finally going to the gym tomorrow! That's the spirit! You'll feel amazing.",
+    "example_ja": "明日からジム行くんだ！その意気だ！最高の気分になるよ。",
+    "situation": "誰かが前向きなことを言ったり、挑戦しようとしているとき励ます場面",
+    "etymology": "spiritは「精神・やる気」。昔から士気を高める掛け声として使われてきた古典的フレーズ。試験には出ない理由はここまで文語的だから。",
+    "fun_fact": "スポーツ映画の名物台詞。コーチが選手を励ます場面で頻出。ただしTOEICには絶対出ない謎の安定感がある。",
+    "instagram_caption": "試験には一切出ないのに、アメリカのドラマなら毎話5回は聞く魔法の言葉🪄 友達が何か頑張ろうとしてたら『That's the spirit!』で応援しましょう。本当に使えます。",
+    "x_post": "試験対策：無視OK ✗ 実会話：必須 ✓ 『That's the spirit!』友達が頑張ろうとしてる時の魔法の一言。ドラマでめっちゃ出るのにテストには絶対出ない謎 🎬 #英語 #ネイティブ英語 #実用的",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 91,
+    "is_ng": false,
+    "generated_at": "2026-06-04T00:05:10.387547",
+    "card_paths": [
+      "output/cards/091_that-s-the-spirit_card1.png",
+      "output/cards/091_that-s-the-spirit_card2.png",
+      "output/cards/091_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情的に食べる、ストレス食い",
+    "example_en": "I've been eating my feelings since the breakup. I've gone through three ice cream containers this week.",
+    "example_ja": "別れてからずっとストレス食いしてる。アイスクリーム3つ食べちゃった。",
+    "situation": "失恋や試験落ちなど、つらいことがあってヤケ食いしている時",
+    "etymology": "感情（feelings）を食べる（eat）という比喩表現。心理的な空虚さを食べ物で埋めようとする人間の本能を言い表した造語的フレーズ。",
+    "fun_fact": "アメリカの心理学では『emotional eating』という正式な用語があり、ストレス対処法の一つとして認識されています。ポップカルチャーでよくネタにされます。",
+    "instagram_caption": "試験に出ないけど、人生に出まくるフレーズ🍦😭 ネイティブはストレスを感じたら『eat one's feelings』。つまり、ヤケ食いですね。あなたは何を食べてストレス発散してますか？",
+    "x_post": "試験には出ないけど、人生には出まくるフレーズ🍫😭 『eat one's feelings』=感情的に食べる。ネイティブもストレス時はヤケ食い。アイス？チョコ？それともピザ？ #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 92,
+    "is_ng": false,
+    "generated_at": "2026-06-04T00:05:16.005952",
+    "card_paths": [
+      "output/cards/092_eat-one-s-feelings_card1.png",
+      "output/cards/092_eat-one-s-feelings_card2.png",
+      "output/cards/092_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな、中身が大事",
+    "example_en": "He looks sketchy, but don't judge a book by its cover. He's actually really kind.",
+    "example_ja": "彼は怪しく見えるけど、見た目で判断しちゃダメ。実際はすごく親切なんだ。",
+    "situation": "外見や第一印象だけで人や物を評価しようとする人を止めたい時",
+    "etymology": "16世紀の古い諺。本当に装丁が地味でも中身が傑作という経験から生まれた。出版社のマーケティングが成功する前の時代の知恵。",
+    "fun_fact": "Amazonのレビュー文化が発達した今、この表現はむしろ重要性が増している。本も人間関係も、ネットの評判だけで判断する危険性を示唆。",
+    "instagram_caption": "見た目で全てが決まると思ってない？📚 ネイティブはこんな時に自然とこのフレーズを使うんです。試験には出ませんが、人間関係では超重要な英語表現。第一印象は参考程度に留めましょう✨",
+    "x_post": "見た目で判断するな！\"Don't judge a book by its cover\" 💭 ネイティブの日常会話では頻出なのに、テストには絶対出ないフレーズ。人間関係を円滑にする魔法の一言です。 #英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 93,
+    "is_ng": false,
+    "generated_at": "2026-06-04T00:05:21.799411",
+    "card_paths": [
+      "output/cards/093_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/093_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/093_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
