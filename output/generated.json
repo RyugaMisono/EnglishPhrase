@@ -861,7 +861,11 @@
       "output/cards/029_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/029_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/029_don-t-judge-a-book-by-its-co_card3.png"
-    ]
+    ],
+    "posted_at": "2026-06-14T23:51:58.798393",
+    "posted_info": {
+      "buffer": "queued"
+    }
   },
   {
     "phrase": "tad",
@@ -3305,6 +3309,84 @@
       "output/cards/123_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/123_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/123_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！いいぞ！気合を入れろ！",
+    "example_en": "I'm finally going to the gym tomorrow! That's the spirit!",
+    "example_ja": "明日からジム行くんだ！その調子だ！",
+    "situation": "相手の前向きな決意や頑張りを応援・激励したい時",
+    "etymology": "「spirit（精神・気合）」そのもの。19世紀から使われ、相手の気合や勢いを褒める表現。試験問題には出ないが日常会話では超頻出。",
+    "fun_fact": "アメリカンフットボールの応援で「That's the spirit!」と叫ぶのが伝統。スポーツ文化から一般化した生きた表現です。",
+    "instagram_caption": "「頑張ろう」という熱い気合に応えるネイティブの魔法の言葉🔥これを言われると誰もが前向きになれる。試験には出ないけど、人間関係には出まくる表現です！",
+    "x_post": "試験に出ない最強の応援フレーズ💪「That's the spirit!」相手の頑張りを後押しする一言。文法なんて関係ない、気合が全てです🔥 #英語 #ネイティブ表現 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 124,
+    "is_ng": false,
+    "generated_at": "2026-06-14T23:51:38.994466",
+    "card_paths": [
+      "output/cards/124_that-s-the-spirit_card1.png",
+      "output/cards/124_that-s-the-spirit_card2.png",
+      "output/cards/124_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情的に食べる、ストレスで暴食する",
+    "example_en": "I had a rough day at work, so I went home and ate my feelings with ice cream.",
+    "example_ja": "仕事で嫌なことがあったから、帰宅してアイスを食べてストレス解消した。",
+    "situation": "失恋したり、試験に落ちたり、イライラしているときに、つい食べてしまう場面で",
+    "etymology": "感情（feelings）を食べる（eat）という直喩的表現。心の穴を食べ物で埋める行為を擬人化したアメリカ発祥のスラング。",
+    "fun_fact": "アメリカ人は感情的になるとアイスクリームやチョコレートに走る傾向が強く、このフレーズは心理学的に根拠のある表現として広く使われています。",
+    "instagram_caption": "試験には絶対出ないけど、人生で何度も使う表現🍫 感情的に食べることはネイティブも認める正当な理由です。あなたはどんなフードで感情をコントロール？ 🍨💔",
+    "x_post": "eat one's feelings = 感情的に食べる🍫 試験に出ないけど実生活で何度も使うネイティブ表現。失恋・ストレス・イライラの三大場面で大活躍🍨 #英語学習 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 125,
+    "is_ng": false,
+    "generated_at": "2026-06-14T23:51:44.541161",
+    "card_paths": [
+      "output/cards/125_eat-one-s-feelings_card1.png",
+      "output/cards/125_eat-one-s-feelings_card2.png",
+      "output/cards/125_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。表面的な判断をするなという戒め。",
+    "example_en": "He looks sketchy, but don't judge a book. He's actually super kind and helpful.",
+    "example_ja": "彼は怪しく見えるかもしれないけど、見た目で判断しちゃダメ。実際はすごく優しくて親切だよ。",
+    "situation": "友達の新しい彼氏や変わった見た目の人を紹介されたとき",
+    "etymology": "1500年代から存在する古いことわざ。昔は本の装丁が内容を反映していなかったことから。実は本当に適切なことわざ。",
+    "fun_fact": "ネイティブは省略して「Don't judge」とだけ言うことも多い。完全版は少し古臭く聞こえるため日常会話では省略版が主流。",
+    "instagram_caption": "見た目で全部が決まるわけじゃない🎭本当に大事なのは中身。ネイティブはこのフレーズをさらっと使いこなす。テストには出ないけど、人間関係では超役立つ表現です✨",
+    "x_post": "見た目だけで判断しちゃダメ！🎭ネイティブがよく使う「don't judge a book by its cover」。試験には出ませんが、日常会話の救世主。中身が大事ってやつです。 #英語学習 #ネイティブ表現 #実用英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 126,
+    "is_ng": false,
+    "generated_at": "2026-06-14T23:51:50.114659",
+    "card_paths": [
+      "output/cards/126_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/126_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/126_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
