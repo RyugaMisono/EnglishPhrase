@@ -12,13 +12,16 @@ jobs:
       contents: write
 
     env:
-      ANTHROPIC_API_KEY:    ${{ secrets.ANTHROPIC_API_KEY }}
-      IMGBB_API_KEY:        ${{ secrets.IMGBB_API_KEY }}
-      BUFFER_ACCESS_TOKEN:  ${{ secrets.BUFFER_ACCESS_TOKEN }}
-      X_API_KEY:            ${{ secrets.X_API_KEY }}
-      X_API_SECRET:         ${{ secrets.X_API_SECRET }}
-      X_ACCESS_TOKEN:       ${{ secrets.X_ACCESS_TOKEN }}
-      X_ACCESS_SECRET:      ${{ secrets.X_ACCESS_SECRET }}
+      ANTHROPIC_API_KEY:       ${{ secrets.ANTHROPIC_API_KEY }}
+      IMGBB_API_KEY:           ${{ secrets.IMGBB_API_KEY }}
+      BUFFER_ACCESS_TOKEN:     ${{ secrets.BUFFER_ACCESS_TOKEN }}
+      X_API_KEY:               ${{ secrets.X_API_KEY }}
+      X_API_SECRET:            ${{ secrets.X_API_SECRET }}
+      X_ACCESS_TOKEN:          ${{ secrets.X_ACCESS_TOKEN }}
+      X_ACCESS_SECRET:         ${{ secrets.X_ACCESS_SECRET }}
+      YOUTUBE_CLIENT_ID:       ${{ secrets.YOUTUBE_CLIENT_ID }}
+      YOUTUBE_CLIENT_SECRET:   ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+      YOUTUBE_REFRESH_TOKEN:   ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
 
     steps:
       - name: リポジトリをチェックアウト
@@ -30,12 +33,20 @@ jobs:
           python-version: "3.12"
 
       - name: 依存パッケージをインストール
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get install -y fonts-noto-cjk ffmpeg
 
       - name: 未生成フレーズがあれば生成
         run: python main.py --count 3
 
-      - name: 投稿実行
+      - name: 動画を生成
+        run: python video_maker.py
+
+      - name: YouTube Shorts にアップロード
+        run: python youtube_uploader.py
+
+      - name: Buffer キューに追加（Instagram + X）
         run: python poster.py --buffer
 
       - name: 生成ファイルをコミット・プッシュ
