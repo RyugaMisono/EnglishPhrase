@@ -12,7 +12,10 @@ import json
 from pathlib import Path
 
 CLIENT_SECRETS = Path("client_secrets.json")
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
+SCOPES = [
+    "https://www.googleapis.com/auth/youtube.upload",
+    "https://www.googleapis.com/auth/youtube.readonly",
+]
 
 
 def main():

@@ -24,7 +24,10 @@ OUTPUT_DIR = Path("output")
 VIDEOS_DIR = OUTPUT_DIR / "videos"
 DATA_FILE  = OUTPUT_DIR / "generated.json"
 
-SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
+SCOPES = [
+    "https://www.googleapis.com/auth/youtube.upload",
+    "https://www.googleapis.com/auth/youtube.readonly",
+]
 
 
 # ============================================================
