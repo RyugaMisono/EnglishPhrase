@@ -149,7 +149,11 @@
       "output/cards/005_couch-potato_card1.png",
       "output/cards/005_couch-potato_card2.png",
       "output/cards/005_couch-potato_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/005_couch-potato.mp4",
+    "youtube_id": "wTlw96LopVs",
+    "youtube_url": "https://youtube.com/shorts/wTlw96LopVs",
+    "youtube_uploaded": "2026-07-10T23:47:14.151255"
   },
   {
     "phrase": "fingers crossed",
@@ -1271,6 +1275,84 @@
       "output/cards/048_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/048_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/048_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！その気持ちだ！",
+    "example_en": "I'm finally going to the gym today! That's the spirit! You'll feel amazing after.",
+    "example_ja": "今日からジム行くんだ！その調子だ！運動後は最高の気分になるよ。",
+    "situation": "相手が前向きな行動や意思を示した時に励ましや賞賛を送る場面",
+    "etymology": "19世紀の励ましの言葉。「精神」「気概」を意味するspiritが、やる気・根性の象徴として使われ始めた。実は試験にはまず出ない。",
+    "fun_fact": "アメリカの学園ドラマでよく聞く表現。スポーツ応援やチームワークシーンで頻出。若者世代ほどカジュアルに使う傾向がある。",
+    "instagram_caption": "相手のやる気に火をつける魔法の一言🔥 試験には絶対出ないのに、友達との会話では毎日使える。英語圏の友人ができたら、これで完璧に励まし上手に見えます✨ネイティブの日常会話、こっそり学びませんか？",
+    "x_post": "That's the spirit！試験には出ないけど、友達を励ます時は超便利🔥 やる気がある人を見たら、この一言で『分かってる感』が出せます。ネイティブになろう💪 #英語 #日常英語 #これテストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 49,
+    "is_ng": false,
+    "generated_at": "2026-07-10T23:46:34.410065",
+    "card_paths": [
+      "output/cards/049_that-s-the-spirit_card1.png",
+      "output/cards/049_that-s-the-spirit_card2.png",
+      "output/cards/049_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べることで紛らわす、やけ食いする",
+    "example_en": "After the breakup, she spent the weekend eating her feelings with ice cream and pizza.",
+    "example_ja": "別れた後、彼女はアイスクリームとピザでやけ食いして週末を過ごした。",
+    "situation": "失恋や悔しい出来事があった時に、ついつい食べてしまう状況",
+    "etymology": "感情（feelings）を食べる（eat）という直訳的な表現。心の空白を食べ物で埋める行為から生まれた造語的フレーズ。",
+    "fun_fact": "アメリカ心理学会の研究によると、ストレス時に高カロリー食を摂取する傾向は実際に存在します。つまり科学的根拠あり！",
+    "instagram_caption": "失恋したらアイスが友達。これはネイティブがマジで使う表現なんです😭🍦 感情を食べる＝やけ食いする。試験には絶対出ませんが、友達との会話では活躍間違いなし！あなたは何を食べて感情処理しますか？",
+    "x_post": "失恋→やけ食い これ英語だと「eat one's feelings」🍕😭 ネイティブがマジで使う表現なのにテストには出ない...それが「テストに出ない英単語帳」クオリティです。 #英語 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 50,
+    "is_ng": false,
+    "generated_at": "2026-07-10T23:46:39.705837",
+    "card_paths": [
+      "output/cards/050_eat-one-s-feelings_card1.png",
+      "output/cards/050_eat-one-s-feelings_card2.png",
+      "output/cards/050_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。外見で人を判断するべきではない。",
+    "example_en": "Yeah, he looks weird, but don't judge a book by its cover—he's actually super cool.",
+    "example_ja": "見た目は変だけど、外見で判断しちゃダメだよ。実際めっちゃ良い奴だし。",
+    "situation": "友達が新しい人間関係に対して否定的な時、偏見を持たないよう促す場面。",
+    "etymology": "1500年代の出版業界が由来。豪華な装丁の本が中身は詰まらないことが多かったため、見た目で本の質を判断するなという警告から生まれた。",
+    "fun_fact": "このフレーズは試験では「appearance」や「judgment」といった単語で出題されるが、会話では短縮形で『Don't judge』と言うことも。ネイティブはかなり略す。",
+    "instagram_caption": "見た目で全部決まるわけじゃない📚✨ ネイティブはこのフレーズを人間関係だけじゃなく、食べ物や物にも使うカジュアル表現。試験には出ないけど、日常会話では超頻出です🗣️",
+    "x_post": "Don't judge a book by its cover🎯 見た目で判断するなという意味で、ネイティブは日常会話でめっちゃ使う。試験には絶対出ないのに知ってると会話が上手くなる系のフレーズです📚 #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 51,
+    "is_ng": false,
+    "generated_at": "2026-07-10T23:46:45.617697",
+    "card_paths": [
+      "output/cards/051_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/051_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/051_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
