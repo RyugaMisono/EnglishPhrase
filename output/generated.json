@@ -350,7 +350,11 @@
       "output/cards/012_bravado_card1.png",
       "output/cards/012_bravado_card2.png",
       "output/cards/012_bravado_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/012_bravado.mp4",
+    "youtube_id": "kbsREl9n4fA",
+    "youtube_url": "https://youtube.com/shorts/kbsREl9n4fA",
+    "youtube_uploaded": "2026-07-16T23:47:40.999624"
   },
   {
     "phrase": "jet lag",
@@ -1754,6 +1758,84 @@
       "output/cards/066_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/066_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/066_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！よくぞ言った！",
+    "example_en": "You're finally going to the gym? That's the spirit! Keep it up for at least a week.",
+    "example_ja": "やっとジム行くの？その調子だ！最低1週間は続けてよ。",
+    "situation": "友人が前向きなことを言ったり、新しいチャレンジを始めたりする時に励ます",
+    "etymology": "spiritは『勢い・やる気』の意味。相手の『精神』や『気概』を褒める表現。実際の霊とは無関係。",
+    "fun_fact": "1800年代から使われている歴史的表現。映画でもよく聞こえるが、受験英語では扱われない完全なカジュアル用語。",
+    "instagram_caption": "試験には出ないけど、友達を励ます時に絶対使える魔法の一言！🎯 相手がポジティブな時、これを返すだけで良い奴認定されます。実は結構古い表現なのに、今でもネイティブの日常会話に登場します。💪",
+    "x_post": "That's the spirit!試験には0%出ないのにネイティブは毎日使う。友人の頑張りを褒める時の最強フレーズ。シンプルだからこそ効果抜群😄 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 67,
+    "is_ng": false,
+    "generated_at": "2026-07-16T23:46:58.416036",
+    "card_paths": [
+      "output/cards/067_that-s-the-spirit_card1.png",
+      "output/cards/067_that-s-the-spirit_card2.png",
+      "output/cards/067_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "気晴らしや気持ちを紛らわすために食べる",
+    "example_en": "I had a bad day at work, so I went home and ate my feelings with ice cream.",
+    "example_ja": "仕事で嫌なことがあったから、家に帰ってアイスクリームを食べて気を紛らわした。",
+    "situation": "ストレスや悔しさを感じた時に、食べ物で気分を落ち着かせる場面",
+    "etymology": "食べる行為を感情処理の手段として比喩化した表現。1950年代から心理学的に注目されるようになり、日常会話に浸透した。",
+    "fun_fact": "Emotional eating（感情食い）と呼ばれる心理現象。アメリカでは国民の多くが経験したことがあると言われている。",
+    "instagram_caption": "テストには絶対出ない。けど友達との会話では超使える🍦💔 ストレスを感じたときに食べちゃう、あの気持ちを表す英語です。あなたのeat one's feeling時間は何ですか？",
+    "x_post": "I ate my feelings today🍫 = ストレスで食べちゃった😭 テストには出ないけど、実生活で超役立つネイティブ表現💯 #英語学習 #日常英語 #実用英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 68,
+    "is_ng": false,
+    "generated_at": "2026-07-16T23:47:04.972472",
+    "card_paths": [
+      "output/cards/068_eat-one-s-feeling_card1.png",
+      "output/cards/068_eat-one-s-feeling_card2.png",
+      "output/cards/068_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな、外見だけで判断するな",
+    "example_en": "She looks quiet, but don't judge a book by its cover—she's hilarious once you know her!",
+    "example_ja": "彼女は静かに見えるけど、見た目で判断しちゃダメ。実は超面白いんだよ！",
+    "situation": "誰かの第一印象が悪くても、実は良い人だったときに使う。",
+    "etymology": "1500年代のことわざに由来。当時は本の装丁がボロボロでも中身は素晴らしいことから。デジタル時代でも使われ続ける、まさに普遍的な知恵。",
+    "fun_fact": "洋書の装丁は日本の本より豪華だから、ネイティブはこのフレーズで何度も失敗している説がある。Amazonの闇。",
+    "instagram_caption": "見た目で全部が決まるわけじゃない。地味な外見でも中身が爆笑レベル…それがネイティブの日常会話🤣 試験には出ないけど、人間関係を円滑にする魔法の一言です✨",
+    "x_post": "見た目で判断するな！ネイティブが本当によく使うフレーズ😎 #英語 #英語学習 #ネイティブ英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 69,
+    "is_ng": false,
+    "generated_at": "2026-07-16T23:47:10.072575",
+    "card_paths": [
+      "output/cards/069_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/069_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/069_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
