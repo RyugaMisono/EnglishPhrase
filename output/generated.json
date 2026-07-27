@@ -680,7 +680,11 @@
       "output/cards/023_eat-one-s-feelings_card1.png",
       "output/cards/023_eat-one-s-feelings_card2.png",
       "output/cards/023_eat-one-s-feelings_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/023_eat-one's-feelings.mp4",
+    "youtube_id": "VQXygmb2s1c",
+    "youtube_url": "https://youtube.com/shorts/VQXygmb2s1c",
+    "youtube_uploaded": "2026-07-27T23:49:33.439038"
   },
   {
     "phrase": "down ones nose",
@@ -2656,6 +2660,84 @@
       "output/cards/099_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/099_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/099_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！その意気だ！",
+    "example_en": "You're finally hitting the gym? That's the spirit! Keep it up for at least a week.",
+    "example_ja": "やっとジム行き始めたの？その調子だ！少なくとも1週間は続けろよ。",
+    "situation": "誰かが頑張ろうとする時に応援・励ましの言葉として使う",
+    "etymology": "spiritは「精神・やる気」の意味。相手の「頑張ろうとする気持ち」を褒めて励ます表現。昔から使われている古典的フレーズ。",
+    "fun_fact": "アメリカの学園ドラマやスポーツ映画で頻出。試験には絶対出ませんが、ネイティブとの日常会話では月1回は聞きます。",
+    "instagram_caption": "受験英語では習わないのに、ネイティブはめっちゃ使う！誰かが頑張ろうとする時の最強応援フレーズ🔥その調子で続けてくれ〜という親友感が最高です💪",
+    "x_post": "That's the spirit! 📣試験には出ない、でもめちゃ使う応援フレーズ。友達が頑張ろうとする時のコレ一言で信頼度UP↑ネイティブの日常会話はこんなので成り立ってます #英語学習 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 100,
+    "is_ng": false,
+    "generated_at": "2026-07-27T23:48:53.562082",
+    "card_paths": [
+      "output/cards/100_that-s-the-spirit_card1.png",
+      "output/cards/100_that-s-the-spirit_card2.png",
+      "output/cards/100_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a rough day at work, so I ended up eating my feelings with a whole pizza.",
+    "example_ja": "仕事が大変だったから、ピザ一枚食べて気を紛らわした。",
+    "situation": "恋愛トラブルや仕事のストレスで、つい暴食してしまう時",
+    "etymology": "感情（feelings）を食べ物で埋める、という文字通りの表現。心の空白を食べ物で満たす行為を擬人化した、いかにも英語らしいフレーズ。",
+    "fun_fact": "アメリカの心理学では「emotional eating」として実際に研究対象。特に失恋時のアイスクリーム消費量の増加は統計でも立証されている。",
+    "instagram_caption": "ストレスを感じたら、つい食べちゃう🍕それが「eat one's feelings」！試験には絶対出ませんが、ネイティブの日常会話では頻出です。あなたは何を食べて気を紛らわしますか？😅",
+    "x_post": "失恋→アイス、仕事が大変→ピザ。感情を食べ物で埋める行為を「eat one's feelings」と言います🍰試験には出ませんが、ネイティブの日常会話の必須フレーズ！ #英語 #ネイティブ英語 #あるある",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 101,
+    "is_ng": false,
+    "generated_at": "2026-07-27T23:48:59.042147",
+    "card_paths": [
+      "output/cards/101_eat-one-s-feelings_card1.png",
+      "output/cards/101_eat-one-s-feelings_card2.png",
+      "output/cards/101_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。外見だけで人を評価するな。",
+    "example_en": "She looks tough, but don't judge a book by its cover—she's actually super kind.",
+    "example_ja": "彼女は怖そうに見えるけど、見た目で判断しちゃダメ。実は超優しいんだよ。",
+    "situation": "友人が第一印象で誰かを批判した時に、相手を庇って使う。",
+    "etymology": "1600年代の出版業界から。装丁が豪華でも内容が微妙な本、その逆も多いことから来た。本当に実用的な教訓だった。",
+    "fun_fact": "アメリカのママが子どもに躾ける時の定番フレーズ。試験には出ないのに、日常会話では鬼のように頻出。",
+    "instagram_caption": "見た目で判断する人に使う魔法の一言。📚✨ ネイティブは本当によくこれ言うのに、教科書には絶対出ない。だから会話で使うと「あ、この人ネイティブっぽい」って思われる。今日から使ってみて！",
+    "x_post": "見た目で判断するな＝don't judge a book by its cover📚試験には絶対出ないのに、ネイティブはめっちゃ使う。恋愛、人間関係、キャラクター評価…あらゆる場面で登場。これ知ってたら会話で一段階上に見える。 #英語 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 102,
+    "is_ng": false,
+    "generated_at": "2026-07-27T23:49:05.028918",
+    "card_paths": [
+      "output/cards/102_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/102_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/102_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
