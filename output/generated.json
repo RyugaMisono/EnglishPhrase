@@ -860,7 +860,11 @@
       "output/cards/029_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/029_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/029_don-t-judge-a-book-by-its-co_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/029_don't-judge-a-book-by-its-cove.mp4",
+    "youtube_id": "rPayAGzlvX0",
+    "youtube_url": "https://youtube.com/shorts/rPayAGzlvX0",
+    "youtube_uploaded": "2026-08-02T23:47:38.674292"
   },
   {
     "phrase": "tad",
@@ -3148,6 +3152,84 @@
       "output/cards/117_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/117_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/117_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！その気持ちだ！",
+    "example_en": "I'm going to finally start studying hard! That's the spirit! You'll pass for sure.",
+    "example_ja": "「これからマジで勉強頑張るんだ！」「その調子だ！絶対合格するよ」",
+    "situation": "誰かが前向きな決意や勢いのある発言をしたときに励ます場面",
+    "etymology": "「精神」を意味するspiritが、勇敢さや熱意といった人間の内面的エネルギーを指すように。昔から使われる古典的な励まし表現。",
+    "fun_fact": "スポーツ映画やアメリカドラマで頻出。受験生や競技者が奮起する場面で必ず誰かが言うセリフ。試験には出ないがハリウッドでは出まくり。",
+    "instagram_caption": "受験生の友達が「頑張る！」と言ったらこう返そう🔥 That's the spirit!は相手のやる気に火をつける魔法の言葉。試験には出ませんが、人間関係には確実に加点されます。",
+    "x_post": "受験生の友達「頑張ります！」→ That's the spirit! 🔥この一言で相手のモチベーションが爆上がり。テストには出ない、でも友情度は爆上がり。 #英語 #ネイティブ英語 #本当に使える英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 118,
+    "is_ng": false,
+    "generated_at": "2026-08-02T23:46:51.068808",
+    "card_paths": [
+      "output/cards/118_that-s-the-spirit_card1.png",
+      "output/cards/118_that-s-the-spirit_card2.png",
+      "output/cards/118_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べて紛らわす、ストレス食いをする",
+    "example_en": "After the bad breakup, I've been eating my feelings with ice cream all week.",
+    "example_ja": "ひどい別れの後、私は一週間ずっとアイスクリームでストレス食いしてます",
+    "situation": "失恋や仕事のストレスで無意識に食べてしまう時の会話",
+    "etymology": "直訳すると『自分の感情を食べる』。感情的な食べ行動を擬人化した表現。1990年代のアメリカ心理学用語から日常会話へ定着",
+    "fun_fact": "comfort foodと組み合わせられることが多い。アメリカでは感情食いは非常に一般的で、多くのコメディにも登場する",
+    "instagram_caption": "悲しい時、怒った時、退屈な時…感情が食欲に変わる現象。これ、英語ではeat one's feelingsなんです😭🍰 テストには出ないけど、ネイティブは日常でめっちゃ使う表現。あなたは何で感情を食べていますか？",
+    "x_post": "失恋した友達に『I'm eating my feelings』と言われたら、それはストレス食いしてるってこと。テストに出ない英語だけど日常会話では超実用的😭🍪 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 119,
+    "is_ng": false,
+    "generated_at": "2026-08-02T23:46:59.794272",
+    "card_paths": [
+      "output/cards/119_eat-one-s-feelings_card1.png",
+      "output/cards/119_eat-one-s-feelings_card2.png",
+      "output/cards/119_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "外見で判断するな。見た目では本質は分からない。",
+    "example_en": "Yeah, he looks rough, but don't judge a book by its cover—he's actually super kind.",
+    "example_ja": "彼は見た目は怖いけど、外見で判断しちゃダメ。実際はすごく優しい人だよ。",
+    "situation": "友人が誰かを偏見で判断しようとした時、見直すよう促す場面。",
+    "etymology": "1600年代の出版業界が起源。豪華な装丁の本が良書とは限らないという教訓から。本当は中身の質が重要という皮肉的な警告。",
+    "fun_fact": "Amazonのレビュー文化が発達した現代では、このフレーズはむしろ『派手な表紙でも内容が微妙』という逆説的な使われ方もされている。",
+    "instagram_caption": "📚 見た目で全て判断しちゃダメ！ネイティブも人間関係でよく使う古典的フレーズ。実は1600年代の出版業界が起源という粋な背景も。本の表紙も人間の顔も、中身こそが大事ってやつですね。",
+    "x_post": "📖『Don't judge a book by its cover』見た目で判断するな、という人間関係の黄金ルール。1600年代から存在する超定番表現。試験には出ないのにネイティブが日常会話でめちゃ使う😂 #英語 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 120,
+    "is_ng": false,
+    "generated_at": "2026-08-02T23:47:05.651427",
+    "card_paths": [
+      "output/cards/120_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/120_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/120_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
