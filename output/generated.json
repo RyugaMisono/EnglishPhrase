@@ -1130,7 +1130,11 @@
       "output/cards/038_eat-one-s-feeling_card1.png",
       "output/cards/038_eat-one-s-feeling_card2.png",
       "output/cards/038_eat-one-s-feeling_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/038_eat-one's-feeling.mp4",
+    "youtube_id": "tcxJwyjDre4",
+    "youtube_url": "https://youtube.com/shorts/tcxJwyjDre4",
+    "youtube_uploaded": "2026-08-11T23:44:34.428585"
   },
   {
     "phrase": "don't judge a book by its cover",
@@ -3886,6 +3890,84 @@
       "output/cards/144_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/144_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/144_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！やる気だね！",
+    "example_en": "You're finally going to the gym? That's the spirit! Keep it up for real this time.",
+    "example_ja": "やっとジム行くの？その調子だ！今度こそ続けろよ。",
+    "situation": "誰かが前向きなことを始めたり、挑戦しようとする時に励ましたり冗談めかして言う",
+    "etymology": "19世紀のイギリスで「spirit＝気合・やる気」の象徴的な使い方から。戦場での勇敢さを称えるフレーズが発祥で、今はカジュアルな励ましに進化。",
+    "fun_fact": "アメリカの学園ドラマでスクールスピリット（学校への応援意識）という概念とも関連。ただし試験には絶対出ません。",
+    "instagram_caption": "ネイティブが毎日使ってるのに、受験英語には一切出ない魔法の一言🪄 友達が何か始めようとした時の最高の励まし。試験には出ませんが、人間関係は確実に上手くいきます。",
+    "x_post": "テストに出ない最強フレーズ！「That's the spirit!」友達の挑戦を応援する時の最高の一言。試験対策には不要だけど、日常会話では超重要です。ネイティブと仲良くなるならこれ！🔥 #英語 #日常英語 #ネイティブ表現",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 145,
+    "is_ng": false,
+    "generated_at": "2026-08-11T23:43:51.575638",
+    "card_paths": [
+      "output/cards/145_that-s-the-spirit_card1.png",
+      "output/cards/145_that-s-the-spirit_card2.png",
+      "output/cards/145_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I went home and ate my feelings with a whole pizza.",
+    "example_ja": "仕事で最悪な一日を過ごしたから、帰宅してピザ一枚をストレス食いした。",
+    "situation": "恋愛トラブルや仕事のストレスで、つい食べ過ぎてしまった時の自虐的な説明",
+    "etymology": "1990年代のアメリカで流行した心理学用語。感情を「食べる」という比喩表現で、実際の食べ物に感情をぶつける行動を表現。",
+    "fun_fact": "アメリカのドラマ『Sex and the City』でキャリーがバースデーケーキを食べながら失恋を癒す場面が有名。メンタルヘルスの日常表現として確立。",
+    "instagram_caption": "仕事でイライラ→ピザを食べまくる→一瞬だけ幸せ🍕✨ ネイティブはこういう時『eat my feelings』って自分をネタにするんです。試験には出ないけど、心の叫びが詰まった表現💔",
+    "x_post": "失恋したらアイスクリーム、仕事ストレスならピザ🍨🍕 これが『eat one's feelings』！試験には絶対出ないのに日常会話では必須。感情と食欲は人類共通言語です😂 #英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 146,
+    "is_ng": false,
+    "generated_at": "2026-08-11T23:43:57.433828",
+    "card_paths": [
+      "output/cards/146_eat-one-s-feelings_card1.png",
+      "output/cards/146_eat-one-s-feelings_card2.png",
+      "output/cards/146_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。本の表紙で中身を判断するな",
+    "example_en": "Yeah, he looks scary, but don't judge a book by its cover. He's actually super nice.",
+    "example_ja": "確かに怖そうに見えるけど、見た目で判断しちゃダメ。実は超いい奴だよ",
+    "situation": "友人が第一印象で誰かを否定した時、別の見方を提案するシーン",
+    "etymology": "19世紀の書籍販売業で、美しい表紙の本が良書とは限らないことから。本当に本の話が由来の数少ないイディオム",
+    "fun_fact": "海外ドラマやコメディでよく使われる。試験では絶対出ないが、日常会話では月3回は遭遇するレベルの頻出度",
+    "instagram_caption": "見た目で判断するな！これ、ネイティブが恋愛から友人関係まで、あらゆる場面で多用するフレーズ📚✨ テスト対策本には載ってないのに、実際の英会話では超重要。目は口ほどに物を言うけど、本は表紙で判断するな😂",
+    "x_post": "見た目で判断するな！ネイティブが超頻出なのにテストに出ない魔法のフレーズ📚 友人評論から恋愛まで、これ一つで「いい奴」認定。試験対策本は静かに泣いています😅 #英語 #ネイティブ英語 #実践英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 147,
+    "is_ng": false,
+    "generated_at": "2026-08-11T23:44:03.337367",
+    "card_paths": [
+      "output/cards/147_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/147_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/147_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
