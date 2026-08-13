@@ -46,8 +46,9 @@ jobs:
       - name: YouTube Shorts にアップロード
         run: python youtube_uploader.py
 
-      - name: Buffer キューに追加（Instagram + X）
-        run: python poster.py --buffer
+      # Instagram + X 投稿は停止中
+      # - name: Buffer キューに追加（Instagram + X）
+      #   run: python poster.py --buffer
 
       - name: 生成ファイルをコミット・プッシュ
         run: |
