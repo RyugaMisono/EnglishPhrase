@@ -1190,7 +1190,11 @@
       "output/cards/040_that-s-the-spirit_card1.png",
       "output/cards/040_that-s-the-spirit_card2.png",
       "output/cards/040_that-s-the-spirit_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/040_that's-the-spirit.mp4",
+    "youtube_id": "GaUzOOKCt88",
+    "youtube_url": "https://youtube.com/shorts/GaUzOOKCt88",
+    "youtube_uploaded": "2026-08-13T23:44:41.276511"
   },
   {
     "phrase": "eat one's feelings",
@@ -4050,6 +4054,84 @@
       "output/cards/150_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/150_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/150_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その意気だ！そういう心意気が大事だ！",
+    "example_en": "You're going to the gym at 6 AM? That's the spirit! Finally getting healthy.",
+    "example_ja": "朝6時にジム行くの？その意気だ！やっと健康的になろうとしてるね。",
+    "situation": "相手の前向きな決断や行動に共感・励ましを示すカジュアルな返答",
+    "etymology": "spiritは「精神」「やる気」の意。困難に立ち向かう勇気ある心構えを褒める表現。18世紀には既に使用されていた歴史ある励まし言葉。",
+    "fun_fact": "スポーツ映画で上司や先輩がこのフレーズを使うと、確実に感動シーンになる法則。テストには絶対出ないが、応援シーンでは99%使われる。",
+    "instagram_caption": "試験には出ないけど、ネイティブはめちゃ使う！相手を励ます時の「その意気だ！」です。友達の頑張りを応援する時、これを使うと関係が深まること間違いなし🎯 教科書には載らない、日常会話のゴールデンフレーズ✨",
+    "x_post": "試験には絶対出ないのにネイティブが日常で連発する表現🔥 That's the spirit = その意気だ！相手の頑張りを応援する時のマジ使える一言。教科書では習わない励ましの言葉です💪 #英語 #ネイティブ英語 #英語学習",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 151,
+    "is_ng": false,
+    "generated_at": "2026-08-13T23:43:58.080332",
+    "card_paths": [
+      "output/cards/151_that-s-the-spirit_card1.png",
+      "output/cards/151_that-s-the-spirit_card2.png",
+      "output/cards/151_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I went home and ate my feelings with a whole pizza.",
+    "example_ja": "仕事で最悪の一日を過ごしたから、帰宅してピザ一枚でストレス食いした。",
+    "situation": "失恋や仕事のストレスで、ついつい食べてしまう時の会話",
+    "etymology": "感情（feelings）を食べ物で埋める、という心理状態を擬人化した表現。1990年代から米国で広がった口語表現で、感情的な食行動を指す。",
+    "fun_fact": "アメリカでは「emotional eating」や「stress eating」とも言い、特に失恋後の女性が大量のアイスクリームを食べるシーンはドラマの定番ネタになっています。",
+    "instagram_caption": "その気持ち、めっちゃわかります🍕😭 試験には出ないけど、人生では超頻出なフレーズです。ネイティブはストレスの時、このセリフをよく言います。あなたは何を食べて気を紛らわしますか？",
+    "x_post": "失恋した？ストレス？それなら「eat one's feelings」🍰😭 感情を食べで紛らわすネイティブの日常表現。試験には出ないけど、実生活では役立つ！#英語 #日常英語 #ネイティブ英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 152,
+    "is_ng": false,
+    "generated_at": "2026-08-13T23:44:04.600850",
+    "card_paths": [
+      "output/cards/152_eat-one-s-feelings_card1.png",
+      "output/cards/152_eat-one-s-feelings_card2.png",
+      "output/cards/152_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。中身が大事という意味の慣用句。",
+    "example_en": "He looks sketchy, but don't judge a book. He's actually super kind and helpful.",
+    "example_ja": "彼は怪しく見えるかもしれないけど、見た目で判断しちゃダメ。実は超優しくて親切だよ。",
+    "situation": "友人の新しい彼氏や、ダサい見た目の人を紹介されたとき。",
+    "etymology": "本の表紙だけで内容を判断できないように、人も見た目だけでは判断できないという比喩。16世紀のイギリスが語源とも言われています。",
+    "fun_fact": "実は本当に表紙詐欺な本は多く、出版業界でも有名な問題。ネイティブはこのフレーズを日常で頻繁に使います。",
+    "instagram_caption": "見た目で全てが決まるわけじゃない。📚 ネイティブはこのフレーズで人間関係をスムーズに。試験には絶対出ないのに日常会話では超便利！✨",
+    "x_post": "見た目で判断するなって意味の『don't judge a book by its cover』🎭 試験には出ないけど、ネイティブは日常でよく使う。新しい友達や恋人を紹介されたときの救世主フレーズ！#英語 #ネイティブ表現 #日常会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 153,
+    "is_ng": false,
+    "generated_at": "2026-08-13T23:44:11.113237",
+    "card_paths": [
+      "output/cards/153_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/153_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/153_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
