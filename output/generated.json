@@ -1370,7 +1370,11 @@
       "output/cards/046_that-s-the-spirit_card1.png",
       "output/cards/046_that-s-the-spirit_card2.png",
       "output/cards/046_that-s-the-spirit_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/046_that's-the-spirit.mp4",
+    "youtube_id": "TEguYblENVs",
+    "youtube_url": "https://youtube.com/shorts/TEguYblENVs",
+    "youtube_uploaded": "2026-08-19T23:37:20.814699"
   },
   {
     "phrase": "eat one's feeling",
