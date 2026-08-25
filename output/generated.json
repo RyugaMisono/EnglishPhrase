@@ -1550,7 +1550,11 @@
       "output/cards/052_that-s-the-spirit_card1.png",
       "output/cards/052_that-s-the-spirit_card2.png",
       "output/cards/052_that-s-the-spirit_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/052_that's-the-spirit.mp4",
+    "youtube_id": "oFryKLZUlB4",
+    "youtube_url": "https://youtube.com/shorts/oFryKLZUlB4",
+    "youtube_uploaded": "2026-08-25T23:37:42.382902"
   },
   {
     "phrase": "eat one's feelings",
