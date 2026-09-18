@@ -2240,7 +2240,11 @@
       "output/cards/075_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/075_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/075_don-t-judge-a-book-by-its-co_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/075_don't-judge-a-book-by-its-cove.mp4",
+    "youtube_id": "di3G6aBVQjE",
+    "youtube_url": "https://youtube.com/shorts/di3G6aBVQjE",
+    "youtube_uploaded": "2026-09-18T23:32:15.258498"
   },
   {
     "phrase": "That's the spirit",
@@ -5750,6 +5754,84 @@
       "output/cards/210_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/210_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/210_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ、いいね、そういう心意気だ",
+    "example_en": "You're finally hitting the gym? That's the spirit! Keep it up for real this time.",
+    "example_ja": "やっとジム通い始めたの？いいね！今回こそ続けてよ",
+    "situation": "友人が頑張ろうとする姿勢や前向きな態度を褒めて励ましたい時",
+    "etymology": "「spirit（精神・やる気）」が17世紀から「勇敢さ・決意」を意味。積極的な心意気を讃える表現として定着した。元は軍事用語。",
+    "fun_fact": "アメリカの応援文化の代表的フレーズ。スポーツ選手やコーチが頻用。試験には絶対出ないが、映画やドラマでは超頻出。",
+    "instagram_caption": "頑張ろうとする友達には「That's the spirit!」🔥 日本語の「その調子」と同じノリだけど、ネイティブはこれで相手の心をグッと掴みます💪 試験には出ないけど、リアルな会話では使いまくり✨",
+    "x_post": "友人が頑張ろうとした時の鉄板フレーズ「That's the spirit!」🔥 日本の「その調子だ」そのもの。テストには出ませんが、映画ではクソほど出てきます😂 #英語 #ネイティブ英語 #日常会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 211,
+    "is_ng": false,
+    "generated_at": "2026-09-18T23:31:41.740349",
+    "card_paths": [
+      "output/cards/211_that-s-the-spirit_card1.png",
+      "output/cards/211_that-s-the-spirit_card2.png",
+      "output/cards/211_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feeling",
+    "japanese_meaning": "気持ちを食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I went home and ate my feelings with ice cream.",
+    "example_ja": "仕事で最悪な一日だったから、帰宅してアイスクリームでストレス食いした。",
+    "situation": "失恋や仕事のストレスで暴食する友人を見かけた時",
+    "etymology": "1990年代のアメリカのドラマ・映画で頻出し、感情的な食べ行為を表現する言い方として定着。感情＝feelingsを文字通り食べるユーモア。",
+    "fun_fact": "アメリカの心理学では「emotional eating」と呼ばれ、ストレス社会の問題として広く認識されている。チョコレートやアイスが定番。",
+    "instagram_caption": "その日の気分が最悪だったら、アイスクリーム片手に「eat my feelings」🍦😭 試験には出ないけど、人生では何度も使う表現です。感情は食べても消えない…笑",
+    "x_post": "失恋した友人「I'm going to eat my feelings」🍕🍰 試験に出ない最高傑作フレーズ。ネイティブなら誰もが共感する魔法の言葉😭 #英語 #ネイティブ英語 #テストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 212,
+    "is_ng": false,
+    "generated_at": "2026-09-18T23:31:46.815189",
+    "card_paths": [
+      "output/cards/212_eat-one-s-feeling_card1.png",
+      "output/cards/212_eat-one-s-feeling_card2.png",
+      "output/cards/212_eat-one-s-feeling_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目だけで判断するな。本当の価値は外見では分からない。",
+    "example_en": "Yeah, he looks sketchy, but don't judge a book by its cover. He's actually super cool.",
+    "example_ja": "うん、怪しく見えるけど、見た目で判断しちゃダメ。実際かなりいい奴だよ。",
+    "situation": "友人が人や物を外見で判定しようとしたときに、思慮深さを促すシーン",
+    "etymology": "元々は1500年代から「本を表紙だけで評価するな」という文字通りの意味で使われ、やがて人間関係に転用されました。今では最もクリシェな励まし表現です。",
+    "fun_fact": "アメリカでは母親がよく子どもに使う言葉。人種差別や偏見に対抗するメッセージとしても重要な役割を果たしてきました。",
+    "instagram_caption": "見た目だけで判断するのはNG！🚫📖 ネイティブは会話でよくこの表現を使って相手を励まします。実は試験には絶対出ないけど、人間関係では超重要な一言かも。💭",
+    "x_post": "「見た目で判断するな」=don't judge a book by its cover📖✨ 試験には出ないけど、日常会話で何度も聞く表現。人間関係を深める魔法の言葉！ #英語 #ネイティブ英語 #英語学習",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 213,
+    "is_ng": false,
+    "generated_at": "2026-09-18T23:31:52.250419",
+    "card_paths": [
+      "output/cards/213_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/213_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/213_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
