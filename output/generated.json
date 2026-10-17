@@ -3050,7 +3050,11 @@
       "output/cards/102_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/102_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/102_don-t-judge-a-book-by-its-co_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/102_don't-judge-a-book-by-its-cove.mp4",
+    "youtube_id": "dUTlsNnk7cQ",
+    "youtube_url": "https://youtube.com/shorts/dUTlsNnk7cQ",
+    "youtube_uploaded": "2026-10-17T01:24:02.594316"
   },
   {
     "phrase": "That's the spirit",
@@ -8042,6 +8046,84 @@
       "output/cards/294_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/294_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/294_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その通り！その意気だ！",
+    "example_en": "You're finally going to the gym? That's the spirit! Keep it up for more than a week this time.",
+    "example_ja": "やっとジム行くの？いいね！今回は1週間以上続けてよ。",
+    "situation": "相手の前向きな決断や努力を励ます時、応援する時に使う",
+    "etymology": "18世紀の「spirit（精神）」から。昔は人の気概や意志力を「spirit」と呼んでいた。誰かの本気度を褒める表現として定着した。",
+    "fun_fact": "アメリカの応援文化で活躍。スポーツ観戦やチームの士気を高める場面で頻出。学生の応援団も連呼する定番フレーズです。",
+    "instagram_caption": "受験や就活の面接には絶対出ないのに、友人との日常会話では超頻出！「その意気だ！」と相手を励ましたい時の最強フレーズです🔥 ネイティブの応援術、学んでみませんか？",
+    "x_post": "試験には出ないけどネイティブは毎日使ってる🔥 That's the spirit! = その意気だ！相手の頑張りを全力で応援する時の魔法の言葉。日常英会話の必需品です💪 #英語学習 #ネイティブ英語 #英語フレーズ",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 295,
+    "is_ng": false,
+    "generated_at": "2026-10-17T01:23:19.657068",
+    "card_paths": [
+      "output/cards/295_that-s-the-spirit_card1.png",
+      "output/cards/295_that-s-the-spirit_card2.png",
+      "output/cards/295_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べ物で紛らわす、ストレス食いをする",
+    "example_en": "After the breakup, I've been eating my feelings with ice cream every night.",
+    "example_ja": "別れた後、毎晩アイスクリームを食べて気を紛らわしている",
+    "situation": "失恋や仕事のストレス、イライラしている時に使う日常会話",
+    "etymology": "感情（feelings）を文字通り『食べる』という比喩表現。心の空白を食べ物で埋める様子をユーモアたっぷりに表現したスラング。",
+    "fun_fact": "アメリカでは『emotional eating』とも言い、心理学でも研究されるほど一般的な現象。ドラマやコメディでもよく登場するネタ。",
+    "instagram_caption": "彼氏に振られた？仕事がうまくいかない？そんな時こそ🍰🍫\nネイティブはストレスを『食べちゃう』んです。試験には出ませんが、心には効きます💔",
+    "x_post": "失恋した友人：I'm eating my feelings\n＝アイス食べてる😭\n試験には出ないけど、リアルな日常会話。あなたは何で気を紛らわします？🍕 #英語学習 #ネイティブ英語 #テストに出ない",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 296,
+    "is_ng": false,
+    "generated_at": "2026-10-17T01:23:25.610310",
+    "card_paths": [
+      "output/cards/296_eat-one-s-feelings_card1.png",
+      "output/cards/296_eat-one-s-feelings_card2.png",
+      "output/cards/296_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。表面的な印象だけで結論を出すな。",
+    "example_en": "Yeah, he looks sketchy, but don't judge a book by its cover—he's actually super cool.",
+    "example_ja": "確かに怪しく見えるけど、見た目で判断しちゃダメ。実は超いいやつだよ。",
+    "situation": "友人が誰かを外見だけで評価しようとしている時に使う。",
+    "etymology": "本の話から。1920年代に使われ始めた表現。実は本の評判は表紙で全く分からないという当たり前のことから。出版界あるあるです。",
+    "fun_fact": "古い本や中古本の買取市場で、この表現は悲しく無視されます。実際には表紙で99%判断されるからです。",
+    "instagram_caption": "見た目で全てが決まるわけじゃない🎭本のように、人間も中身が大事。ネイティブは何気ない会話でこう言うんです📚✨",
+    "x_post": "don't judge a book by its cover→見た目で判断するな。試験には出ないけどネイティブは毎日使う。あなたの第一印象、もう変わるかも？🎭 #英語フレーズ #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 297,
+    "is_ng": false,
+    "generated_at": "2026-10-17T01:23:31.287532",
+    "card_paths": [
+      "output/cards/297_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/297_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/297_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
