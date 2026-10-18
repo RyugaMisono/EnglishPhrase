@@ -3080,7 +3080,11 @@
       "output/cards/103_that-s-the-spirit_card1.png",
       "output/cards/103_that-s-the-spirit_card2.png",
       "output/cards/103_that-s-the-spirit_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/103_that's-the-spirit.mp4",
+    "youtube_id": "QImQKXlpmx4",
+    "youtube_url": "https://youtube.com/shorts/QImQKXlpmx4",
+    "youtube_uploaded": "2026-10-18T01:17:22.046389"
   },
   {
     "phrase": "eat one's feelings",
@@ -8124,6 +8128,84 @@
       "output/cards/297_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/297_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/297_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その意気だ！よくぞ言った！前向きな姿勢を褒める表現",
+    "example_en": "I'm finally going to the gym tomorrow! That's the spirit! You've got this, buddy.",
+    "example_ja": "「明日からジム行くんだ！」「その意気だ！頑張れよ！」",
+    "situation": "友人が何かに挑戦しようとする時、その前向きな態度を応援・激励する場面",
+    "etymology": "19世紀の軍隊用語。兵士の勇敢な精神を鼓舞する掛け声が語源。「spirit=精神」という文字通りの意味で士気を高めた",
+    "fun_fact": "スポーツ応援や職場の激励で超頻出。試験対策本には絶対載らないが、YouTubeのコーチング動画では100回は聞く表現",
+    "instagram_caption": "友人が「挑戦します！」と言ったら、これ！🔥 試験には出ませんが、会話では毎日出番あります。応援する時の最強フレーズ💪 ネイティブはこれでめっちゃ盛り上げます😄",
+    "x_post": "試験対策本には絶対ない😂That's the spirit!友人の前向き発言への最高の応援フレーズ。会話では毎日使うのに試験には出ない…それが英語の不思議。#英語 #ネイティブ英語 #テストに出ない英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 298,
+    "is_ng": false,
+    "generated_at": "2026-10-18T01:16:41.856855",
+    "card_paths": [
+      "output/cards/298_that-s-the-spirit_card1.png",
+      "output/cards/298_that-s-the-spirit_card2.png",
+      "output/cards/298_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわす、ストレス食いする",
+    "example_en": "I had a terrible day at work, so I went home and ate my feelings with a whole pizza.",
+    "example_ja": "仕事で最悪な一日を過ごしたから、帰宅してピザ1枚丸ごと食べてストレス解消した。",
+    "situation": "恋愛や仕事でストレスを抱えた友人に対し、つい食べ過ぎてしまう行動を説明する時",
+    "etymology": "1990年代のポップカルチャーで流行した心理学的表現。感情（feelings）と食べる行為（eat）を組み合わせた造語で、感情を食べ物で埋める行動を風刺的に表現。",
+    "fun_fact": "アメリカドラマ『Sex and the City』で頻繁に使われた表現。女性キャラが失恋するとアイスクリームをヤケ食いするシーン、あの文化的背景から生まれた。",
+    "instagram_caption": "失恋したら、テストには出ないこのフレーズが活躍します🍕😭 ネイティブはストレスを感じると『eat my feelings』と言っちゃう。あなたは何をヤケ食いしちゃいますか？",
+    "x_post": "失恋→ヤケ食い→『eat my feelings』😭🍫 テストに出ないけど、ネイティブの日常会話には欠かせないフレーズ。感情を食べ物で紛らわす行為、あなたも経験ありませんか？ #英語 #英語学習 #ネイティブ英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 299,
+    "is_ng": false,
+    "generated_at": "2026-10-18T01:16:48.272775",
+    "card_paths": [
+      "output/cards/299_eat-one-s-feelings_card1.png",
+      "output/cards/299_eat-one-s-feelings_card2.png",
+      "output/cards/299_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。外見では本当の価値は分からない。",
+    "example_en": "Yeah, he looks weird but don't judge a book by its cover—he's actually really smart and funny.",
+    "example_ja": "確かに彼は変に見えるけど、見た目で判断しちゃダメだよ。実は頭いいし面白いんだ。",
+    "situation": "友人が誰かを外見で判断しようとする時に、さらりと忠告するカジュアルな場面。",
+    "etymology": "1500年代から存在する言い回し。本の表紙と内容が一致しないことから転じて、人や物の真の価値は外見では測れないという普遍的な教えを表現。",
+    "fun_fact": "実は本の業界では『ジャケ買い』も多く、この表現は出版社にとってはある意味ジレンマ。良い表紙こそが売上を左右する現実がある。",
+    "instagram_caption": "見た目だけでは本当のことは分からない📚✨ ネイティブはこういう『教訓的なフレーズ』を会話の中で自然に使いこなします。試験には出ないけど、この一言で「あ、この人英語できる」って思われちゃう魔法の表現🪄",
+    "x_post": "見た目で判断するなって意味の『Don't judge a book by its cover』🔖 試験には絶対出ない。でもネイティブは日常でよく使う。人間関係のアドバイスに最適な表現です💭 #英語 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 300,
+    "is_ng": false,
+    "generated_at": "2026-10-18T01:16:54.372547",
+    "card_paths": [
+      "output/cards/300_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/300_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/300_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
