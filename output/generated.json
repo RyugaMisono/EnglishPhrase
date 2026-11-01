@@ -3500,7 +3500,11 @@
       "output/cards/117_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/117_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/117_don-t-judge-a-book-by-its-co_card3.png"
-    ]
+    ],
+    "video_path": "output/videos/117_don't-judge-a-book-by-its-cove.mp4",
+    "youtube_id": "USe1Uuee2xo",
+    "youtube_url": "https://youtube.com/shorts/USe1Uuee2xo",
+    "youtube_uploaded": "2026-11-01T02:23:30.090995"
   },
   {
     "phrase": "That's the spirit",
@@ -9272,6 +9276,84 @@
       "output/cards/339_don-t-judge-a-book-by-its-co_card1.png",
       "output/cards/339_don-t-judge-a-book-by-its-co_card2.png",
       "output/cards/339_don-t-judge-a-book-by-its-co_card3.png"
+    ]
+  },
+  {
+    "phrase": "That's the spirit",
+    "japanese_meaning": "その調子だ！そういう気概を持てよ！",
+    "example_en": "I'm finally hitting the gym tomorrow. That's the spirit! You'll feel amazing.",
+    "example_ja": "明日からジム通い始めるんだ。その調子だ！気分が最高になるよ。",
+    "situation": "友人が前向きな決断をした時、やる気を褒めて励ます場面",
+    "etymology": "19世紀から使われた表現。「spirit=精神・気概」を褒めることで、その人の前向きな姿勢を認める励ましの言葉。",
+    "fun_fact": "試験には絶対出ませんが、英米圏のドラマやコメディで頻出。親友同士の日常会話では必須フレーズです。",
+    "instagram_caption": "受験勉強では出ません。でもネイティブとの雑談では超頻出！🎯 友人の頑張りを応援する時、これ一言で『俺もお前の味方だ感』が出ます。😎 試験対策より大事な、心の距離を近づけるフレーズです。💪",
+    "x_post": "That's the spirit! 試験に出ない、でも友人との距離が縮まる魔法の言葉✨ネイティブは相手の前向きさを褒める時これ使います。英検には出ないけど、本当の英会話はこういうのが大事🎯 #英語 #ネイティブ英語 #英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 340,
+    "is_ng": false,
+    "generated_at": "2026-11-01T02:22:47.183330",
+    "card_paths": [
+      "output/cards/340_that-s-the-spirit_card1.png",
+      "output/cards/340_that-s-the-spirit_card2.png",
+      "output/cards/340_that-s-the-spirit_card3.png"
+    ]
+  },
+  {
+    "phrase": "eat one's feelings",
+    "japanese_meaning": "感情を食べで紛らわせる、ストレス食いする",
+    "example_en": "After my breakup, I've been eating my feelings with ice cream all week.",
+    "example_ja": "別れた後、ずっとアイスクリームでストレス食いしてた。",
+    "situation": "落ち込んでいる時、悔しい時、寂しい時に感情的に食べている状態を指す",
+    "etymology": "感情（feelings）を食べ物で埋める、という比喩表現。心理的な空虚感を食べることで満たそうとする人間の行動を面白くまとめた造語。",
+    "fun_fact": "アメリカのドラマ・映画では定番の表現。感情的になると大量のチョコレートやアイスを食べるシーンがお約束。実は心理学的にも認知された行動パターンです。",
+    "instagram_caption": "試験には絶対出ないけど、人生で何度も使うフレーズ🍫悔しい時、寂しい時、ストレスで大食いしちゃう...そんな時はこれ！ネイティブはこうやってサラッと言ってのけます😭",
+    "x_post": "試験には出ないけど人生で何度も使う英語🍨 breakupの後、アイス食べまくりの友人に「eating your feelings」と言われた😂 感情的な暴食をこう表現します #英語 #ネイティブ英語 #日常英語",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 341,
+    "is_ng": false,
+    "generated_at": "2026-11-01T02:22:53.082079",
+    "card_paths": [
+      "output/cards/341_eat-one-s-feelings_card1.png",
+      "output/cards/341_eat-one-s-feelings_card2.png",
+      "output/cards/341_eat-one-s-feelings_card3.png"
+    ]
+  },
+  {
+    "phrase": "don't judge a book by its cover",
+    "japanese_meaning": "見た目で判断するな。本は表紙だけでは判断できない。",
+    "example_en": "Yeah, he looks sketchy, but don't judge a book by its cover. He's actually super nice.",
+    "example_ja": "確かに彼は怪しく見えるけど、見た目で判断しちゃダメだよ。実は超いい奴なんだ。",
+    "situation": "第一印象が悪い人や物について、もっとよく知ってから判断するべき時",
+    "etymology": "15世紀のことわざが由来。本の表紙は装丁が豪華でも内容がつまらないことがあることから。そのままフレーズ化されました。",
+    "fun_fact": "洋書のミステリー小説は本当に表紙詐欺が多い。装丁だけゴージャスなのに内容は…という経験、誰もがあります。",
+    "instagram_caption": "📚 その人、本当に怪しい？表紙だけで本を選ぶ人、結構多いですよね。ネイティブは「don't judge a book by its cover」で見た目に惑わされるなよ〜って忠告します。奥深い表現です。",
+    "x_post": "📚『don't judge a book by its cover』= 見た目で判断するな。ネイティブは人間関係でよく使います。試験には出ないけど、日常会話の救世主🙌 #英語 #ネイティブ英語 #日常英会話",
+    "hashtags": [
+      "英語",
+      "英語学習",
+      "英語フレーズ",
+      "ネイティブ英語",
+      "テストに出ない英語"
+    ],
+    "post_number": 342,
+    "is_ng": false,
+    "generated_at": "2026-11-01T02:22:59.306734",
+    "card_paths": [
+      "output/cards/342_don-t-judge-a-book-by-its-co_card1.png",
+      "output/cards/342_don-t-judge-a-book-by-its-co_card2.png",
+      "output/cards/342_don-t-judge-a-book-by-its-co_card3.png"
     ]
   }
 ]
